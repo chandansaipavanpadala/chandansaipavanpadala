@@ -36,16 +36,22 @@ I am highly driven by a long-term objective to serve in the **Indian Armed Force
 
 ---
 
-### GitHub Analytics
+---
+
+### Technical Metrics & Contributions
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chandansaipavanpadala&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=chandansaipavanpadala&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandansaipavanpadala&layout=compact&theme=radical" alt="Top Languages" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandansaipavanpadala&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chandansaipavanpadala&theme=radical&no-bg=true&column=4" alt="GitHub Trophies" />
+  
+  <br/><br/>
+
+  <img src="https://img.shields.io/badge/Main_Focus-Embedded_Systems-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Current_Project-Autonomous_Vehicle-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Academic_Year-3rd_Year_ECE-orange?style=for-the-badge" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandansaipavanpadala&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
