@@ -39,11 +39,13 @@ I am highly driven by a long-term objective to serve in the **Indian Armed Force
 ### GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandansaipavanpadala&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chandansaipavanpadala&theme=radical&no-bg=true&margin-w=15" alt="GitHub Trophies" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandansaipavanpadala&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandansaipavanpadala&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandansaipavanpadala&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandansaipavanpadala&layout=compact&theme=radical" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandansaipavanpadala&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
