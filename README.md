@@ -36,10 +36,6 @@ I am highly driven by a long-term objective to serve in the **Indian Armed Force
 
 ---
 
----
-
----
-
 ### GitHub Analytics
 
 <div align="center">
