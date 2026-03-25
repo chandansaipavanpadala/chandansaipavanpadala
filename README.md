@@ -4,6 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20the%20Future%20with%20Hardware%20&%20Code&fontSize=30" />
 </div>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=chandansaipavanpadala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+</p>
+
 ### Professional Overview
 
 I am a 3rd-year B.Tech student majoring in **Electronics and Communication Engineering (ECE)**, currently based in Bengaluru. My core focus lies in bridging the gap between hardware and software, with specialized interests in embedded systems, robotics, and the application of Machine Learning in physical systems.
@@ -19,11 +23,18 @@ I am highly driven by a long-term objective to serve in the **Indian Armed Force
 
 ### Technical Proficiencies
 
-**Hardware & Microcontrollers:**
-`ARM Cortex-M4` | `ESP32` | `Raspberry Pi` | `Raspberry Pi Pico` | `Microwave Radar Systems`
+**Hardware & Core Technologies:**
+`ARM Cortex-M4` | `ESP32` | `Raspberry Pi` | `Raspberry Pi Pico` | `Microwave Radar Systems` | `FreeRTOS` | `IoT Architecture` | `Digital IC Design`
 
-**Software & Core Technologies:**
-`FreeRTOS` | `C/C++` | `Python` | `Machine Learning` | `IoT Architecture` | `Digital IC Design`
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <a href="https://isocpp.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+  <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
+</p>
 
 ---
 
@@ -38,10 +49,15 @@ I am highly driven by a long-term objective to serve in the **Indian Armed Force
 
 ### GitHub Analytics
 
-<div align="center">
-  <br/>
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandansaipavanpadala&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandansaipavanpadala&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandansaipavanpadala&theme=radical" alt="GitHub Streak" />
-</div>
+</p>
 
 ---
 
