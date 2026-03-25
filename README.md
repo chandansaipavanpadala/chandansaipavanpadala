@@ -38,7 +38,7 @@ I am highly driven by a long-term objective to serve in the **Indian Armed Force
 
 ---
 
-### Present Projects
+### Ongoing Projects
 
 * **H.A.W.K. (Human Activity Detection Through Walls):** A sophisticated detection system utilizing microwave radar, powered by an ESP32 and orchestrated using FreeRTOS.
 * **TARA (Tracking Adaptive Road Autonomous Car):** An autonomous vehicle architecture leveraging the combined processing capabilities of a Raspberry Pi and ESP32 for adaptive navigation and environmental mapping.
