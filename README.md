@@ -4,8 +4,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Building%20the%20Future%20with%20Hardware%20&%20Code&fontSize=30" />
 </div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=chandansaipavanpadala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandansaipavanpadala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ### Professional Overview
@@ -26,10 +26,16 @@ I am highly driven by a long-term objective to serve in the **Indian Armed Force
 **Hardware & Core Technologies:**
 `ARM Cortex-M4` | `ESP32` | `Raspberry Pi` | `Raspberry Pi Pico` | `Microwave Radar Systems` | `FreeRTOS` | `IoT Architecture` | `Digital IC Design`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a><a href="https://www.python.org" target="_blank"><imgsrc="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.raspberrypi.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-</p>
+### Languages and Tools:
+
+<div align="left">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
+  <a href="https://isocpp.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+  <a href="https://www.raspberrypi.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
+  <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /></a>
+</div>
 
 ---
 
@@ -44,10 +50,10 @@ I am highly driven by a long-term objective to serve in the **Indian Armed Force
 
 ### GitHub Analytics
 
-<p align="center"> 
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandansaipavanpadala&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-<p align="center"> 
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandansaipavanpadala&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 <p align="center">
