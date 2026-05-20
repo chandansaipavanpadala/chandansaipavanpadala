@@ -12,7 +12,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/chandansaipavanp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://chandansaipavan.me"><img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://chandansaipavanp.me"><img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:chandansaipavanp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
