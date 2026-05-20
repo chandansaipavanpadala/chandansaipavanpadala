@@ -20,18 +20,18 @@
 
 ---
 
-## ⚡ About Me
+## About Me
 
-- 🔧 Embedded Systems Engineer focused on **FreeRTOS, firmware architecture, and hardware-software co-design**
-- 📡 Building systems for **Defence Electronics, IoT, and Autonomous Platforms**
-- ⚡ Experienced with **ESP32, ARM Cortex-M4, Raspberry Pi, and low-level C firmware**
-- 🏆 3× Hackathon podium finisher in industrial automation, hardware security, and robotics
-- 🎾 Approach every engineering problem like competitive badminton — observe, iterate, don't quit
-- 📬 Always open to conversations about embedded systems, defence tech, or intelligent automation
+- Embedded Systems Engineer focused on **FreeRTOS, firmware architecture, and hardware-software co-design**
+- Building systems for **Defence Electronics, IoT, and Autonomous Platforms**
+- Experienced with **ESP32, ARM Cortex-M4, Raspberry Pi, and low-level C firmware**
+- 3× Hackathon podium finisher in industrial automation, hardware security, and robotics
+- pproach every engineering problem like competitive badminton — observe, iterate, don't quit
+- Always open to conversations about embedded systems, defence tech, or intelligent automation
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -65,13 +65,13 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🦅 H.A.W.K.
+### H.A.W.K.
 **Human Activity Detection Through Walls**
 
 Microwave radar-based detection system powered by **ESP32 + FreeRTOS**. Multi-threaded architecture with 250Hz sampling, priority-based task scheduling, and real-time signal processing — designed for search-and-rescue and perimeter security applications.
@@ -81,7 +81,7 @@ Microwave radar-based detection system powered by **ESP32 + FreeRTOS**. Multi-th
 </td>
 <td width="50%" valign="top">
 
-### 🚗 TÁRA
+### TÁRA
 **Tracking Adaptive Road Autonomous Car**
 
 Full autonomous vehicle architecture combining **Raspberry Pi 4B + ESP32** for adaptive navigation, lane detection, and environmental mapping. Built for ADAS-level capability on a constrained budget.
@@ -93,7 +93,7 @@ Full autonomous vehicle architecture combining **Raspberry Pi 4B + ESP32** for a
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 Binino
+### Binino
 **Microcontroller Firmware Extraction Toolkit**
 
 A low-level toolkit for firmware extraction and reverse engineering from microcontrollers. Focuses on binary analysis, memory dump parsing, and hardware-level interface protocols.
@@ -103,7 +103,7 @@ A low-level toolkit for firmware extraction and reverse engineering from microco
 </td>
 <td width="50%" valign="top">
 
-### 🧪 Digital IC Tester
+### Digital IC Tester
 **Web-Based Hardware Validation Infrastructure**
 
 A hardware testing system built around **Raspberry Pi Pico + MCP23017 I/O expanders** to validate digital integrated circuits through a web interface. Designed for rapid IC verification in lab environments.
@@ -115,7 +115,7 @@ A hardware testing system built around **Raspberry Pi Pico + MCP23017 I/O expand
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 JINX
+### JINX
 **Joint Inverse N-dimensional eXplorer**
 
 Robotics simulation and mathematics dashboard deployed on GitHub Pages. Features BroadcastChannel throttling and an interactive interface for multi-dimensional robotics calculations and path planning visualization.
@@ -125,7 +125,7 @@ Robotics simulation and mathematics dashboard deployed on GitHub Pages. Features
 </td>
 <td width="50%" valign="top">
 
-### 🏠 IoT Safe House
+### IoT Safe House
 **Integrated Security & Monitoring System**
 
 End-to-end IoT security architecture with sensor integration, real-time monitoring, and automated alert systems. Built as a full-stack IoT deployment demonstrating hardware-to-cloud reliability.
@@ -138,7 +138,7 @@ End-to-end IoT security architecture with sensor integration, real-time monitori
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -153,7 +153,7 @@ End-to-end IoT security architecture with sensor integration, real-time monitori
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
 
@@ -166,7 +166,7 @@ End-to-end IoT security architecture with sensor integration, real-time monitori
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 <div align="center">
 
