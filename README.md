@@ -22,32 +22,12 @@
 
 ## ⚡ About Me
 
-```c
-typedef struct {
-    char*   name;
-    char*   role;
-    char*   focus[4];
-    char*   goal;
-    bool    will_back_down;
-} Engineer;
-
-Engineer chandan = {
-    .name  = "Chandan Sai Pavan Padala",
-    .role  = "Embedded Systems Engineer",
-    .focus = {
-        "Real-Time Operating Systems (FreeRTOS)",
-        "Firmware Architecture & Hardware Debugging",
-        "IoT Systems & Sensor Fusion",
-        "Defence Electronics & Autonomous Systems"
-    },
-    .goal        = "Build systems that perform flawlessly under real-world constraints.",
-    .will_back_down = false
-};
-```
-
-I write firmware that doesn't just work in a lab — it works under **noisy sensors, concurrent interrupts, and hardware that wasn't designed to cooperate**. My focus is embedded firmware, RTOS architecture, and hardware-software co-design for defence and IoT applications.
-
-I approach engineering the same way I approach competitive badminton — **obsessive observation, deliberate iteration, and refusing to quit when things stop making sense.**
+- 🔧 Embedded Systems Engineer focused on **FreeRTOS, firmware architecture, and hardware-software co-design**
+- 📡 Building systems for **Defence Electronics, IoT, and Autonomous Platforms**
+- ⚡ Experienced with **ESP32, ARM Cortex-M4, Raspberry Pi, and low-level C firmware**
+- 🏆 3× Hackathon podium finisher in industrial automation, hardware security, and robotics
+- 🎾 Approach every engineering problem like competitive badminton — observe, iterate, don't quit
+- 📬 Always open to conversations about embedded systems, defence tech, or intelligent automation
 
 ---
 
