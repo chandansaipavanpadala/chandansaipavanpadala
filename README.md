@@ -180,11 +180,82 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
 ## Achievements
 
 <div align="center">
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/SYNEXIS-2nd%20Place-00b4d8?style=for-the-badge&logo=espressif&logoColor=white" />
+      <br/><br/>
+      <b>JIDO Automation Club</b><br/>
+      <sub>April 2026</sub>
+      <br/><br/>
+      <p align="left">🏆 <b>19-Hour Hardware Security & System Recovery Challenge</b></p>
+      <p align="left">Decoded narrative ciphers, rewired sabotaged hardware circuits, and defended infrastructure against live simulated cyber-attacks.</p>
+      <br/>
+      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQB-sA3gdy69Rq5vJSuNXoSMAb5EESBuP4_HbxcuLSx0LlI?e=tF7gje"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/AI%20AUTOMATA-2nd%20Place-00b4d8?style=for-the-badge&logo=flask&logoColor=white" />
+      <br/><br/>
+      <b>NEURON x JIDO</b><br/>
+      <sub>March 2026</sub>
+      <br/><br/>
+      <p align="left">🏆 <b>Industrial Automation & AI Anomaly Detection Duel</b></p>
+      <p align="left">Applied PCA to clean noisy industrial datasets and deployed a Flask UI for real-time anomaly detection during a machine learning duel.</p>
+      <br/>
+      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQAKxtxIGrx6TJPzhqxHa5TSAX3DyFOTHKf5u4Whey_TJFQ?e=IcCDA6"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/SYNCHRONEX-3rd%20Place-00b4d8?style=for-the-badge&logo=arduino&logoColor=white" />
+      <br/><br/>
+      <b>JIDO Automation Club</b><br/>
+      <sub>March 2026</sub>
+      <br/><br/>
+      <p align="left">🏆 <b>9-Phase Multi-Disciplinary Digital Twin Hackathon</b></p>
+      <p align="left">Navigated Webots drone simulations, validated ciphers, and built an Arduino "Hardware Heart" to command a robotic arm.</p>
+      <br/>
+      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQAhF4hOT8N1R6IqchWD4y99Ac0B20KlPp1Y6iiyVRXg1iM?e=HePX5R"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
+</div>
 
-| 🥈 2nd Place | **SYNEXIS** — 19-hour hardware security & system recovery challenge |
-| 🥈 2nd Place | **AI AUTOMATA** — Industrial automation & real-time anomaly detection |
-| 🥉 3rd Place | **SYNCHRONEX** — 9-phase multidisciplinary hackathon, 21 teams |
-
+<div align="center">
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Ingenium%20PRAGYAN'26-Hardware-00b4d8?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+      <br/><br/>
+      <b>Pragyan NIT Trichy</b><br/>
+      <sub>February 2026</sub>
+      <br/><br/>
+      <p align="left">🛠️ <b>National-Level Hardware Design Hackathon</b></p>
+      <p align="left">Designed and prototyped innovative embedded solutions under strict time, power, and resource constraints at NIT Trichy.</p>
+      <br/>
+      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQB1UVee31DNRbH_V4iYPY5pAURZPyQS2-HWqYx_YUgVgdQ?e=5o6SMt"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Next%20Chapter-Software-00b4d8?style=for-the-badge&logo=github&logoColor=white" />
+      <br/><br/>
+      <b>Next Chapter</b><br/>
+      <sub>January 2025</sub>
+      <br/><br/>
+      <p align="left">💻 <b>Rapid Software & API Integration Hackathon</b></p>
+      <p align="left">Collaborated on building a fully functional software prototype, focusing on high-speed API routing, rapid state development, and web integrations.</p>
+      <br/>
+      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQBzYWnga2-tQKOan34pFOcuAfBSSH20IijoADc3NJRQe1M?e=BpKxUy"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
@@ -192,11 +263,108 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
 ## Certifications
 
 <div align="center">
-
-![Coursera](https://img.shields.io/badge/Embedded_C_Specialization-Coursera-blue?style=for-the-badge)
-![Google](https://img.shields.io/badge/Network_Security-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google](https://img.shields.io/badge/Cybersecurity_Specialization-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
+<table>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Embedded_C-Specialization-00599C?style=for-the-badge&logo=coursera&logoColor=white" />
+      <br/><br/>
+      <b>Embedded Software Development</b><br/>
+      <sub>UC Boulder • Jan 2026</sub>
+      <br/><br/>
+      <p align="left">Focuses on microcontroller interfacing, RTOS implementation, and optimizing ARM Cortex (STM32) embedded firmware.</p>
+      <br/>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/1R4GZ1905B9C"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Net_Security-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      <br/><br/>
+      <b>Network Security</b><br/>
+      <sub>Google • Jan 2026</sub>
+      <br/><br/>
+      <p align="left">Covers network architecture, system hardening, intrusion detection, and traffic analysis using Wireshark and Python.</p>
+      <br/>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/3YZXON8H39U0"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Cybersecurity-Google-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+      <br/><br/>
+      <b>Google Cybersecurity</b><br/>
+      <sub>Google • Dec 2024</sub>
+      <br/><br/>
+      <p align="left">Comprehensive training in security foundations, network defense, incident response, SIEM tools, and threat analysis.</p>
+      <br/>
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/certificate/3IWBPPPGNL0S"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Embedded_Systems-NIELIT-009688?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+      <br/><br/>
+      <b>Embedded for Beginners</b><br/>
+      <sub>NIELIT • Jan 2026</sub>
+      <br/><br/>
+      <p align="left">Practical foundation in embedded system architectures, microcontroller peripheral interfacing, and register-level firmware development.</p>
+      <br/>
+      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQBWz6ChE8KSS5JNg_vz6Q72AUlFNyldGY6yA7mcbifd46s?e=OwLCHW"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td width="25%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/MATLAB_&_Simulink-NIELIT-E16707?style=for-the-badge&logo=mathworks&logoColor=white" />
+      <br/><br/>
+      <b>MATLAB & Simulink</b><br/>
+      <sub>NIELIT • Jan 2026</sub>
+      <br/><br/>
+      <p align="left">Covers modeling, system simulation, signal processing design, and programmatic control system workflows in MATLAB/Simulink.</p>
+      <br/>
+      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQD1CChXQ6BIQ5-j4Mc2KrwUAYsPZg6Z2DdqOoHBA62fgG8?e=0olacG"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/LabVIEW-Expedition-009432?style=for-the-badge&logo=nationalinstruments&logoColor=white" />
+      <br/><br/>
+      <b>LabVIEW & EasyDAQ</b><br/>
+      <sub>Expedition • Oct 2025</sub>
+      <br/><br/>
+      <p align="left">In-depth training in graphical system design, high-frequency data acquisition systems, and robust analog/digital sensor interfacing.</p>
+      <br/>
+      <a href="https://aseblr-my.sharepoint.com/:i:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQCdubpsMEaNRLCfFJ_cBozxAYFF6FTfA9PVa66jw9sRi5M?e=9OcdZ0"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Gen_AI_&_Sec-Workshop-6C5CE7?style=for-the-badge&logo=openai&logoColor=white" />
+      <br/><br/>
+      <b>AI & Ethical Hacking</b><br/>
+      <sub>Workshop • Jan 2025</sub>
+      <br/><br/>
+      <p align="left">Trained in vulnerability assessment, penetration testing, and leveraging generative AI models for offensive/defensive security.</p>
+      <br/>
+      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQA0GKzmG0wYTID0Y2IwEbskASu35ZDquM2MsiHVTXlwwdA?e=QhsLgy"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+    <td width="25%" valign="top" align="center">
+      <br/>
+      <img src="https://img.shields.io/badge/Data_Science-Bootcamp-FF7675?style=for-the-badge&logo=pandas&logoColor=white" />
+      <br/><br/>
+      <b>Data Science Bootcamp</b><br/>
+      <sub>Bootcamp • Completed</sub>
+      <br/><br/>
+      <p align="left">Intensive training in Python data analysis libraries, exploratory data analysis, and predictive machine learning models.</p>
+      <br/>
+      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQCDq2QlGp13SJOMnkEkReteAXidKhJFPSHitRWGStmK5bw?e=JQTcYg"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
