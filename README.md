@@ -12,7 +12,7 @@
 &nbsp;
 <a href="https://www.linkedin.com/in/chandansaipavanp"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 &nbsp;
-<a href="https://chandansaipavanp.me"><img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+<a href="https://chandansaipavanpadala.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:chandansaipavanp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
@@ -25,8 +25,8 @@
 - Embedded Systems Engineer focused on **FreeRTOS, firmware architecture, and hardware-software co-design**
 - Building systems for **Defence Electronics, IoT, and Autonomous Platforms**
 - Experienced with **ESP32, ARM Cortex-M4, Raspberry Pi, and low-level C firmware**
-- 3× Hackathon podium finisher in industrial automation, hardware security, and robotics
-- pproach every engineering problem like competitive badminton — observe, iterate, don't quit
+- 5× Hackathon podium finisher in industrial automation, hardware security, and robotics
+- Approach every engineering problem like competitive badminton — observe, iterate, don't quit
 - Always open to conversations about embedded systems, defence tech, or intelligent automation
 
 ---
@@ -39,27 +39,51 @@
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=microchip&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-00D4FF?style=for-the-badge&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Hardware & Embedded Platforms**
+**Microcontrollers & Hardware Platforms**
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ARM](https://img.shields.io/badge/ARM_Cortex--M4-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ARM Cortex-M4](https://img.shields.io/badge/ARM_Cortex--M4-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![ARM7 LPC2148](https://img.shields.io/badge/ARM7_LPC2148-00B0FF?style=for-the-badge&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry_Pi_Pico-009688?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-**RTOS & Frameworks**
+**RTOS & Communication Protocols**
 
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00878A?style=for-the-badge&logoColor=white)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4CAF50?style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi-00E676?style=for-the-badge&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-32C350?style=for-the-badge&logo=webrtc&logoColor=white)
+![Web Serial API](https://img.shields.io/badge/Web_Serial_API-FF5722?style=for-the-badge&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![UART/I2C/SPI](https://img.shields.io/badge/UART_I2C_SPI-03A9F4?style=for-the-badge&logoColor=white)
 
-**Tools**
+**Development Tools & Design Software**
 
+![Keil uVision](https://img.shields.io/badge/Keil_uVision-1E88E5?style=for-the-badge&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-00ACC1?style=for-the-badge&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-1976D2?style=for-the-badge&logoColor=white)
+![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-F44336?style=for-the-badge&logoColor=white)
+![Spectre Simulator](https://img.shields.io/badge/Spectre_Simulator-9C27B0?style=for-the-badge&logoColor=white)
+![MIT App Inventor](https://img.shields.io/badge/MIT_App_Inventor-E65100?style=for-the-badge&logoColor=white)
+
+**Technologies & Frameworks**
+
+![IoT](https://img.shields.io/badge/Internet_of_Things-FF9100?style=for-the-badge&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00E5FF?style=for-the-badge&logoColor=white)
+![VLSI Design](https://img.shields.io/badge/VLSI_Design-FFC107?style=for-the-badge&logoColor=white)
+![Digital Signal Processing](https://img.shields.io/badge/Signal_Processing-E91E63?style=for-the-badge&logoColor=white)
+![Robotics Simulation](https://img.shields.io/badge/Robotics_Simulation-00E5FF?style=for-the-badge&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![MATLAB/Simulink](https://img.shields.io/badge/MATLAB%20%2F%20Simulink-E16707?style=for-the-badge&logo=mathworks&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 </div>
 
@@ -71,56 +95,56 @@
 <tr>
 <td width="50%" valign="top">
 
-### H.A.W.K.
-**Human Activity Detection Through Walls**
+### Web-Based Digital IC Tester
+**Web Serial API-Based Hardware Validation**
 
-Microwave radar-based detection system powered by **ESP32 + FreeRTOS**. Multi-threaded architecture with 250Hz sampling, priority-based task scheduling, and real-time signal processing — designed for search-and-rescue and perimeter security applications.
+A futuristic web application for mobile IC testing, utilizing the Web Serial API. Features a comprehensive IC database, interactive truth tables, and pinout diagrams for both automated and manual testing, bypassing expensive laboratory bench equipment.
 
-`ESP32` `FreeRTOS` `Radar` `C` `Signal Processing`
-
-</td>
-<td width="50%" valign="top">
-
-### TÁRA
-**Tracking Adaptive Road Autonomous Car**
-
-Full autonomous vehicle architecture combining **Raspberry Pi 4B + ESP32** for adaptive navigation, lane detection, and environmental mapping. Built for ADAS-level capability on a constrained budget.
-
-`Raspberry Pi` `ESP32` `Python` `Computer Vision` `ADAS`
+`Web Serial API` `JavaScript` `HTML5/CSS3` `Arduino` `Embedded C`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Binino
-**Microcontroller Firmware Extraction Toolkit**
-
-A low-level toolkit for firmware extraction and reverse engineering from microcontrollers. Focuses on binary analysis, memory dump parsing, and hardware-level interface protocols.
-
-`C` `Python` `Reverse Engineering` `Firmware` `Hardware Security`
-
-</td>
-<td width="50%" valign="top">
-
-### Digital IC Tester
-**Web-Based Hardware Validation Infrastructure**
-
-A hardware testing system built around **Raspberry Pi Pico + MCP23017 I/O expanders** to validate digital integrated circuits through a web interface. Designed for rapid IC verification in lab environments.
-
-`Raspberry Pi Pico` `MCP23017` `Python` `Web Interface` `IC Testing`
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### JINX
 **Joint Inverse N-dimensional eXplorer**
 
-Robotics simulation and mathematics dashboard deployed on GitHub Pages. Features BroadcastChannel throttling and an interactive interface for multi-dimensional robotics calculations and path planning visualization.
+An open-source 3D robotic simulator using Three.js and Vite, featuring real-time forward and inverse kinematics, trajectory planning, and a high-performance multi-tab data pipeline streaming 60FPS telemetry via BroadcastChannel API.
 
-`JavaScript` `Robotics` `Simulation` `GitHub Pages` `Mathematics`
+`Three.js` `Vite` `BroadcastChannel API` `Chart.js` `GitHub Pages`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### TÁRA
+**Tracking Adaptive Road Autonomous Car**
+
+1:10 scale Raspberry Pi autonomous car optimized for Indian road conditions, integrating ADAS features: Lane Keep Assist, Emergency Braking (AEB), Adaptive Cruise Control (ACC), Blind Spot Detection, and real-time Traffic Sign Recognition.
+
+`Raspberry Pi` `Python` `OpenCV` `CARLA Simulator` `ADAS Algorithms`
+
+</td>
+<td width="50%" valign="top">
+
+### H.A.W.K.
+**Human Activity Detection Through Walls**
+
+A real-time through-wall human detection system utilizing microwave kinetics and radar principles. Features robust telemetry packet extraction and live data visualization for continuous, non-invasive activity monitoring.
+
+`Microwave Radar` `ESP32` `Python` `Serial Protocol` `Data Visualization`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### OmniMind
+**The Intelligent Second Brain**
+
+A high-performance SaaS platform using Gemini 2.5 Flash to automatically analyze, categorize, and route unstructured links and thoughts into authenticated Supabase databases with strict Row-Level Security protection.
+
+`Next.js 16` `Supabase` `Gemini 2.5 Flash` `TypeScript` `SaaS`
 
 </td>
 <td width="50%" valign="top">
@@ -128,9 +152,9 @@ Robotics simulation and mathematics dashboard deployed on GitHub Pages. Features
 ### IoT Safe House
 **Integrated Security & Monitoring System**
 
-End-to-end IoT security architecture with sensor integration, real-time monitoring, and automated alert systems. Built as a full-stack IoT deployment demonstrating hardware-to-cloud reliability.
+End-to-end IoT home security solution with real-time multi-sensor monitoring, automated mobile alerts, and robust cloud synchronization built on Arduino and MIT App Inventor.
 
-`ESP32` `MQTT` `IoT` `Sensors` `Cloud Integration`
+`Arduino` `MIT App Inventor` `IoT Sensors` `Bluetooth` `Cloud`
 
 </td>
 </tr>
@@ -158,7 +182,6 @@ End-to-end IoT security architecture with sensor integration, real-time monitori
 <div align="center">
 
 | 🥈 2nd Place | **SYNEXIS** — 19-hour hardware security & system recovery challenge |
-|---|---|
 | 🥈 2nd Place | **AI AUTOMATA** — Industrial automation & real-time anomaly detection |
 | 🥉 3rd Place | **SYNCHRONEX** — 9-phase multidisciplinary hackathon, 21 teams |
 
@@ -170,9 +193,9 @@ End-to-end IoT security architecture with sensor integration, real-time monitori
 
 <div align="center">
 
-![EDUCBA](https://img.shields.io/badge/Embedded_Software_Dev_with_C-EDUCBA-red?style=for-the-badge)
+![Coursera](https://img.shields.io/badge/Embedded_C_Specialization-Coursera-blue?style=for-the-badge)
 ![Google](https://img.shields.io/badge/Network_Security-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Google](https://img.shields.io/badge/Cyber_Security-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Google](https://img.shields.io/badge/Cybersecurity_Specialization-Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 </div>
 
