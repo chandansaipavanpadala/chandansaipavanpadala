@@ -270,7 +270,7 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
       <img src="https://img.shields.io/badge/Embedded_C-Specialization-00599C?style=for-the-badge&logo=coursera&logoColor=white" />
       <br/><br/>
       <b>Embedded Software Development</b><br/>
-      <sub>UC Boulder • Jan 2026</sub>
+      <sub>EDUCBA • Jan 2026</sub>
       <br/><br/>
       <p align="left">Focuses on microcontroller interfacing, RTOS implementation, and optimizing ARM Cortex (STM32) embedded firmware.</p>
       <br/>
