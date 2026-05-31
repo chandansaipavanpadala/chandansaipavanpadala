@@ -192,7 +192,7 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
       <p align="left">🏆 <b>19-Hour Hardware Security & System Recovery Challenge</b></p>
       <p align="left">Decoded narrative ciphers, rewired sabotaged hardware circuits, and defended infrastructure against live simulated cyber-attacks.</p>
       <br/>
-      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQB-sA3gdy69Rq5vJSuNXoSMAb5EESBuP4_HbxcuLSx0LlI?e=tF7gje"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/1qjgvftOzC0FuwGy1UrTIRxs1LqgaP4EV/view?usp=sharing"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
     <td width="33%" valign="top" align="center">
@@ -205,7 +205,7 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
       <p align="left">🏆 <b>Industrial Automation & AI Anomaly Detection Duel</b></p>
       <p align="left">Applied PCA to clean noisy industrial datasets and deployed a Flask UI for real-time anomaly detection during a machine learning duel.</p>
       <br/>
-      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQAKxtxIGrx6TJPzhqxHa5TSAX3DyFOTHKf5u4Whey_TJFQ?e=IcCDA6"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/1_O-8rqZXj38rwP8HKeCjea0jNdRD2pek/view?usp=sharing"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
     <td width="33%" valign="top" align="center">
@@ -218,7 +218,7 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
       <p align="left">🏆 <b>9-Phase Multi-Disciplinary Digital Twin Hackathon</b></p>
       <p align="left">Navigated Webots drone simulations, validated ciphers, and built an Arduino "Hardware Heart" to command a robotic arm.</p>
       <br/>
-      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQAhF4hOT8N1R6IqchWD4y99Ac0B20KlPp1Y6iiyVRXg1iM?e=HePX5R"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/1ZYEU_i7Yfc5KPMj1KeyjEFsd8CG3HSz2/view?usp=sharing"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
   </tr>
@@ -238,7 +238,7 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
       <p align="left">🛠️ <b>National-Level Hardware Design Hackathon</b></p>
       <p align="left">Designed and prototyped innovative embedded solutions under strict time, power, and resource constraints at NIT Trichy.</p>
       <br/>
-      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQB1UVee31DNRbH_V4iYPY5pAURZPyQS2-HWqYx_YUgVgdQ?e=5o6SMt"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/15A7hJ1_sPyyKLVoqyuGW9L2veef9owAQ/view?usp=sharing"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
     <td width="50%" valign="top" align="center">
@@ -251,7 +251,7 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
       <p align="left">💻 <b>Rapid Software & API Integration Hackathon</b></p>
       <p align="left">Collaborated on building a fully functional software prototype, focusing on high-speed API routing, rapid state development, and web integrations.</p>
       <br/>
-      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQBzYWnga2-tQKOan34pFOcuAfBSSH20IijoADc3NJRQe1M?e=BpKxUy"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/1nj-ShBUNk0sfLCuHvjJAqX5IOp52F8i9/view?usp=sharing"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
   </tr>
@@ -310,7 +310,7 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
       <br/><br/>
       <p align="left">Practical foundation in embedded system architectures, microcontroller peripheral interfacing, and register-level firmware development.</p>
       <br/>
-      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQBWz6ChE8KSS5JNg_vz6Q72AUlFNyldGY6yA7mcbifd46s?e=OwLCHW"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/1qw5usyJmOBO2qCJsP5-ultjJVEGMqGqH/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
   </tr>
@@ -324,7 +324,7 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
       <br/><br/>
       <p align="left">Covers modeling, system simulation, signal processing design, and programmatic control system workflows in MATLAB/Simulink.</p>
       <br/>
-      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQD1CChXQ6BIQ5-j4Mc2KrwUAYsPZg6Z2DdqOoHBA62fgG8?e=0olacG"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/16nhockD5kRZoNQPoVYHrdBySHiFJ_0Tm/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
     <td width="25%" valign="top" align="center">
@@ -336,7 +336,7 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
       <br/><br/>
       <p align="left">In-depth training in graphical system design, high-frequency data acquisition systems, and robust analog/digital sensor interfacing.</p>
       <br/>
-      <a href="https://aseblr-my.sharepoint.com/:i:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQCdubpsMEaNRLCfFJ_cBozxAYFF6FTfA9PVa66jw9sRi5M?e=9OcdZ0"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/1adpmKrQ1yII4na68fopUakKliWq5C0De/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
     <td width="25%" valign="top" align="center">
@@ -348,7 +348,7 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
       <br/><br/>
       <p align="left">Trained in vulnerability assessment, penetration testing, and leveraging generative AI models for offensive/defensive security.</p>
       <br/>
-      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQA0GKzmG0wYTID0Y2IwEbskASu35ZDquM2MsiHVTXlwwdA?e=QhsLgy"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/13SHREXtdaO0qgkycCP7ZCFeVok7aghCo/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
     <td width="25%" valign="top" align="center">
@@ -360,7 +360,7 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
       <br/><br/>
       <p align="left">Intensive training in Python data analysis libraries, exploratory data analysis, and predictive machine learning models.</p>
       <br/>
-      <a href="https://aseblr-my.sharepoint.com/:b:/g/personal/bl_en_u4ece23205_bl_students_amrita_edu/IQCDq2QlGp13SJOMnkEkReteAXidKhJFPSHitRWGStmK5bw?e=JQTcYg"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/1R6BGsl1JRmzyFFCswIEFkPg0ulpxLJea/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
   </tr>
