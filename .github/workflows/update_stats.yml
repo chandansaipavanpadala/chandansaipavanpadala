@@ -1,0 +1,83 @@
+name: Update GitHub Analytics SVGs
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
+  workflow_dispatch: # Allows manual trigger from the GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download SVG Cards with Fallbacks
+        run: |
+          mkdir -p github-stats
+          
+          # 1. GitHub Stats Card
+          echo "Downloading GitHub Stats..."
+          curl -s -f -L -o temp_stats.svg "https://github-readme-stats-alpha.vercel.app/api?username=chandansaipavanpadala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff" || \
+          curl -s -f -L -o temp_stats.svg "https://github-readme-stats.vercel.app/api?username=chandansaipavanpadala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff"
+          
+          if [ -s temp_stats.svg ] && grep -q "<svg" temp_stats.svg; then
+            mv temp_stats.svg github-stats/github-stats.svg
+            echo "GitHub Stats successfully updated."
+          else
+            echo "Failed to fetch GitHub Stats, keeping existing version."
+            rm -f temp_stats.svg
+          fi
+
+          # 2. Top Languages Card
+          echo "Downloading Top Languages..."
+          curl -s -f -L -o temp_langs.svg "https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=chandansaipavanpadala&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff" || \
+          curl -s -f -L -o temp_langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=chandansaipavanpadala&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff"
+          
+          if [ -s temp_langs.svg ] && grep -q "<svg" temp_langs.svg; then
+            mv temp_langs.svg github-stats/top-langs.svg
+            echo "Top Languages successfully updated."
+          else
+            echo "Failed to fetch Top Languages, keeping existing version."
+            rm -f temp_langs.svg
+          fi
+
+          # 3. Streak Stats Card
+          echo "Downloading Streak Stats..."
+          curl -s -f -L -o temp_streak.svg "https://streak-stats.demolab.com/?user=chandansaipavanpadala&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" || \
+          curl -s -f -L -o temp_streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=chandansaipavanpadala&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8"
+          
+          if [ -s temp_streak.svg ] && grep -q "<svg" temp_streak.svg; then
+            mv temp_streak.svg github-stats/streak-stats.svg
+            echo "Streak Stats successfully updated."
+          else
+            echo "Failed to fetch Streak Stats, keeping existing version."
+            rm -f temp_streak.svg
+          fi
+
+          # 4. Activity Graph
+          echo "Downloading Activity Graph..."
+          curl -s -f -L -o temp_activity.svg "https://github-readme-activity-graph.vercel.app/graph?username=chandansaipavanpadala&theme=react-dark&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&hide_border=true"
+          
+          if [ -s temp_activity.svg ] && grep -q "<svg" temp_activity.svg; then
+            mv temp_activity.svg github-stats/activity-graph.svg
+            echo "Activity Graph successfully updated."
+          else
+            echo "Failed to fetch Activity Graph, keeping existing version."
+            rm -f temp_activity.svg
+          fi
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-stats/*.svg
+          if git diff --staged --quiet; then
+            echo "No changes in stats, skipping commit."
+          else
+            git commit -m "Auto-update GitHub profile analytics SVGs [skip ci]"
+            git push origin main || git push
+          fi

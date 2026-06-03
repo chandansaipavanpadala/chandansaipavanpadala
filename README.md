@@ -166,12 +166,12 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chandansaipavanpadala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandansaipavanpadala&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff"/>
+<img height="180em" src="./github-stats/github-stats.svg"/>
+<img height="180em" src="./github-stats/top-langs.svg"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandansaipavanpadala&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" />
+<img src="./github-stats/streak-stats.svg" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chandansaipavanpadala&theme=react-dark&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&hide_border=true" />
+<img src="./github-stats/activity-graph.svg" />
 
 </div>
 
