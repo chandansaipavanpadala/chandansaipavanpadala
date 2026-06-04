@@ -1,0 +1,759 @@
+<svg width="690" height="135" viewBox="0 0 690 135" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="690" height="135" rx="8" fill="var(--color-bg)" stroke="var(--color-border)" stroke-width="1"/>
+  <style>
+    :root {
+
+  --color-empty: #ebedf0;
+  --color-level-1: #9be9a8;
+  --color-level-2: #40c463;
+  --color-level-3: #30a14e;
+  --color-level-4: #216e39;
+  --color-bg: #ffffff;
+  --color-border: #e1e4e8;
+  --color-text: #586069;
+
+    }
+    .month-text, .day-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 9px; fill: var(--color-text); }
+    .cell { shape-rendering: crispEdges; }
+    .snake-head { animation: snake-move 20s infinite linear; animation-delay: -0.4s; }
+    .snake-body-1 { animation: snake-move 20s infinite linear; animation-delay: -0.3s; }
+    .snake-body-2 { animation: snake-move 20s infinite linear; animation-delay: -0.2s; }
+    .snake-body-3 { animation: snake-move 20s infinite linear; animation-delay: -0.1s; }
+    .snake-body-4 { animation: snake-move 20s infinite linear; animation-delay: 0s; }
+    @keyframes snake-move {
+      0% { transform: translate(4px, 56px); }
+      12% { transform: translate(244px, 92px); }
+      18% { transform: translate(244px, 20px); }
+      22% { transform: translate(280px, 20px); }
+      26% { transform: translate(280px, 44px); }
+      30% { transform: translate(244px, 44px); }
+      37% { transform: translate(340px, 20px); }
+      40% { transform: translate(304px, 20px); }
+      46% { transform: translate(304px, 92px); }
+      49% { transform: translate(340px, 92px); }
+      55% { transform: translate(400px, 20px); }
+      58% { transform: translate(364px, 20px); }
+      61% { transform: translate(364px, 56px); }
+      64% { transform: translate(400px, 56px); }
+      67% { transform: translate(400px, 92px); }
+      70% { transform: translate(364px, 92px); }
+      74% { transform: translate(424px, 92px); }
+      80% { transform: translate(424px, 20px); }
+      84% { transform: translate(460px, 20px); }
+      88% { transform: translate(460px, 44px); }
+      92% { transform: translate(424px, 44px); }
+      100% { transform: translate(700px, 56px); }
+    }
+    .cell-17-6 { animation: eat-17-6 20s infinite; }
+    @keyframes eat-17-6 {
+      0%, 12.0% { fill: var(--color-level-4); }
+      12.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-17-5 { animation: eat-17-5 20s infinite; }
+    @keyframes eat-17-5 {
+      0%, 13.0% { fill: var(--color-level-1); }
+      13.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-1); }
+    }
+    .cell-17-4 { animation: eat-17-4 20s infinite; }
+    @keyframes eat-17-4 {
+      0%, 14.0% { fill: var(--color-level-3); }
+      14.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-17-3 { animation: eat-17-3 20s infinite; }
+    @keyframes eat-17-3 {
+      0%, 15.0% { fill: var(--color-level-2); }
+      15.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-2); }
+    }
+    .cell-17-2 { animation: eat-17-2 20s infinite; }
+    @keyframes eat-17-2 {
+      0%, 16.0% { fill: var(--color-level-4); }
+      16.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-17-1 { animation: eat-17-1 20s infinite; }
+    @keyframes eat-17-1 {
+      0%, 17.0% { fill: var(--color-level-3); }
+      17.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-17-0 { animation: eat-17-0 20s infinite; }
+    @keyframes eat-17-0 {
+      0%, 18.0% { fill: var(--color-level-4); }
+      18.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-18-0 { animation: eat-18-0 20s infinite; }
+    @keyframes eat-18-0 {
+      0%, 19.3% { fill: var(--color-level-3); }
+      19.8%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-19-0 { animation: eat-19-0 20s infinite; }
+    @keyframes eat-19-0 {
+      0%, 20.7% { fill: var(--color-level-2); }
+      21.2%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-2); }
+    }
+    .cell-20-0 { animation: eat-20-0 20s infinite; }
+    @keyframes eat-20-0 {
+      0%, 22.0% { fill: var(--color-level-4); }
+      22.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-20-1 { animation: eat-20-1 20s infinite; }
+    @keyframes eat-20-1 {
+      0%, 24.0% { fill: var(--color-level-2); }
+      24.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-2); }
+    }
+    .cell-20-2 { animation: eat-20-2 20s infinite; }
+    @keyframes eat-20-2 {
+      0%, 26.0% { fill: var(--color-level-3); }
+      26.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-19-2 { animation: eat-19-2 20s infinite; }
+    @keyframes eat-19-2 {
+      0%, 28.0% { fill: var(--color-level-3); }
+      28.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-18-2 { animation: eat-18-2 20s infinite; }
+    @keyframes eat-18-2 {
+      0%, 30.0% { fill: var(--color-level-4); }
+      30.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-25-0 { animation: eat-25-0 20s infinite; }
+    @keyframes eat-25-0 {
+      0%, 37.0% { fill: var(--color-level-2); }
+      37.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-2); }
+    }
+    .cell-24-0 { animation: eat-24-0 20s infinite; }
+    @keyframes eat-24-0 {
+      0%, 38.5% { fill: var(--color-level-4); }
+      39.0%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-23-0 { animation: eat-23-0 20s infinite; }
+    @keyframes eat-23-0 {
+      0%, 40.0% { fill: var(--color-level-3); }
+      40.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-22-1 { animation: eat-22-1 20s infinite; }
+    @keyframes eat-22-1 {
+      0%, 41.5% { fill: var(--color-level-4); }
+      42.0%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-22-2 { animation: eat-22-2 20s infinite; }
+    @keyframes eat-22-2 {
+      0%, 42.5% { fill: var(--color-level-2); }
+      43.0%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-2); }
+    }
+    .cell-22-3 { animation: eat-22-3 20s infinite; }
+    @keyframes eat-22-3 {
+      0%, 43.5% { fill: var(--color-level-3); }
+      44.0%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-22-4 { animation: eat-22-4 20s infinite; }
+    @keyframes eat-22-4 {
+      0%, 44.5% { fill: var(--color-level-1); }
+      45.0%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-1); }
+    }
+    .cell-22-5 { animation: eat-22-5 20s infinite; }
+    @keyframes eat-22-5 {
+      0%, 46.0% { fill: var(--color-level-4); }
+      46.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-23-6 { animation: eat-23-6 20s infinite; }
+    @keyframes eat-23-6 {
+      0%, 47.0% { fill: var(--color-level-2); }
+      47.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-2); }
+    }
+    .cell-24-6 { animation: eat-24-6 20s infinite; }
+    @keyframes eat-24-6 {
+      0%, 48.0% { fill: var(--color-level-3); }
+      48.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-25-6 { animation: eat-25-6 20s infinite; }
+    @keyframes eat-25-6 {
+      0%, 49.0% { fill: var(--color-level-4); }
+      49.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-30-0 { animation: eat-30-0 20s infinite; }
+    @keyframes eat-30-0 {
+      0%, 55.0% { fill: var(--color-level-4); }
+      55.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-29-0 { animation: eat-29-0 20s infinite; }
+    @keyframes eat-29-0 {
+      0%, 56.0% { fill: var(--color-level-3); }
+      56.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-28-0 { animation: eat-28-0 20s infinite; }
+    @keyframes eat-28-0 {
+      0%, 57.0% { fill: var(--color-level-4); }
+      57.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-27-1 { animation: eat-27-1 20s infinite; }
+    @keyframes eat-27-1 {
+      0%, 58.0% { fill: var(--color-level-3); }
+      58.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-27-2 { animation: eat-27-2 20s infinite; }
+    @keyframes eat-27-2 {
+      0%, 59.5% { fill: var(--color-level-2); }
+      60.0%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-2); }
+    }
+    .cell-28-3 { animation: eat-28-3 20s infinite; }
+    @keyframes eat-28-3 {
+      0%, 61.0% { fill: var(--color-level-4); }
+      61.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-29-3 { animation: eat-29-3 20s infinite; }
+    @keyframes eat-29-3 {
+      0%, 62.5% { fill: var(--color-level-2); }
+      63.0%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-2); }
+    }
+    .cell-30-3 { animation: eat-30-3 20s infinite; }
+    @keyframes eat-30-3 {
+      0%, 64.0% { fill: var(--color-level-3); }
+      64.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-30-4 { animation: eat-30-4 20s infinite; }
+    @keyframes eat-30-4 {
+      0%, 65.0% { fill: var(--color-level-4); }
+      65.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-30-5 { animation: eat-30-5 20s infinite; }
+    @keyframes eat-30-5 {
+      0%, 66.0% { fill: var(--color-level-2); }
+      66.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-2); }
+    }
+    .cell-29-6 { animation: eat-29-6 20s infinite; }
+    @keyframes eat-29-6 {
+      0%, 67.3% { fill: var(--color-level-3); }
+      67.8%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-28-6 { animation: eat-28-6 20s infinite; }
+    @keyframes eat-28-6 {
+      0%, 68.7% { fill: var(--color-level-4); }
+      69.2%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-27-6 { animation: eat-27-6 20s infinite; }
+    @keyframes eat-27-6 {
+      0%, 70.0% { fill: var(--color-level-3); }
+      70.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-32-6 { animation: eat-32-6 20s infinite; }
+    @keyframes eat-32-6 {
+      0%, 74.0% { fill: var(--color-level-3); }
+      74.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-32-5 { animation: eat-32-5 20s infinite; }
+    @keyframes eat-32-5 {
+      0%, 75.0% { fill: var(--color-level-2); }
+      75.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-2); }
+    }
+    .cell-32-4 { animation: eat-32-4 20s infinite; }
+    @keyframes eat-32-4 {
+      0%, 76.0% { fill: var(--color-level-4); }
+      76.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-32-3 { animation: eat-32-3 20s infinite; }
+    @keyframes eat-32-3 {
+      0%, 77.0% { fill: var(--color-level-1); }
+      77.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-1); }
+    }
+    .cell-32-2 { animation: eat-32-2 20s infinite; }
+    @keyframes eat-32-2 {
+      0%, 78.0% { fill: var(--color-level-4); }
+      78.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-32-1 { animation: eat-32-1 20s infinite; }
+    @keyframes eat-32-1 {
+      0%, 79.0% { fill: var(--color-level-3); }
+      79.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-32-0 { animation: eat-32-0 20s infinite; }
+    @keyframes eat-32-0 {
+      0%, 80.0% { fill: var(--color-level-4); }
+      80.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-33-0 { animation: eat-33-0 20s infinite; }
+    @keyframes eat-33-0 {
+      0%, 81.3% { fill: var(--color-level-3); }
+      81.8%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-34-0 { animation: eat-34-0 20s infinite; }
+    @keyframes eat-34-0 {
+      0%, 82.7% { fill: var(--color-level-4); }
+      83.2%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-35-0 { animation: eat-35-0 20s infinite; }
+    @keyframes eat-35-0 {
+      0%, 84.0% { fill: var(--color-level-2); }
+      84.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-2); }
+    }
+    .cell-35-1 { animation: eat-35-1 20s infinite; }
+    @keyframes eat-35-1 {
+      0%, 86.0% { fill: var(--color-level-4); }
+      86.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-35-2 { animation: eat-35-2 20s infinite; }
+    @keyframes eat-35-2 {
+      0%, 88.0% { fill: var(--color-level-3); }
+      88.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-34-2 { animation: eat-34-2 20s infinite; }
+    @keyframes eat-34-2 {
+      0%, 90.0% { fill: var(--color-level-3); }
+      90.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-33-2 { animation: eat-33-2 20s infinite; }
+    @keyframes eat-33-2 {
+      0%, 92.0% { fill: var(--color-level-2); }
+      92.5%, 98% { fill: var(--color-empty); }
+      99%, 100% { fill: var(--color-level-2); }
+    }
+  </style>
+  <text x="40" y="12" class="month-text">Jan</text>
+  <text x="100" y="12" class="month-text">Feb</text>
+  <text x="148" y="12" class="month-text">Mar</text>
+  <text x="196" y="12" class="month-text">Apr</text>
+  <text x="256" y="12" class="month-text">May</text>
+  <text x="304" y="12" class="month-text">Jun</text>
+  <text x="352" y="12" class="month-text">Jul</text>
+  <text x="412" y="12" class="month-text">Aug</text>
+  <text x="460" y="12" class="month-text">Sep</text>
+  <text x="508" y="12" class="month-text">Oct</text>
+  <text x="568" y="12" class="month-text">Nov</text>
+  <text x="616" y="12" class="month-text">Dec</text>
+  <text x="12" y="40" class="day-text">Mon</text>
+  <text x="12" y="64" class="day-text">Wed</text>
+  <text x="12" y="88" class="day-text">Fri</text>
+  <rect x="40" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="40" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="40" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="40" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="40" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="40" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="40" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="52" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="52" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="52" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="52" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="52" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="52" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="52" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="64" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="64" y="32" width="10" height="10" rx="2" fill="var(--color-level-1)" class="cell"/>
+  <rect x="64" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="64" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="64" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="64" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="64" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="76" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="76" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="76" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="76" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="76" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="76" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="76" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="88" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="88" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="88" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="88" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="88" y="68" width="10" height="10" rx="2" fill="var(--color-level-2)" class="cell"/>
+  <rect x="88" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="88" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="100" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="100" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="100" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="100" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="100" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="100" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="100" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="112" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="112" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="112" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="112" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="112" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="112" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="112" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="124" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="124" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="124" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="124" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="124" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="124" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="124" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="136" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="136" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="136" y="44" width="10" height="10" rx="2" fill="var(--color-level-1)" class="cell"/>
+  <rect x="136" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="136" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="136" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="136" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="148" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="148" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="148" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="148" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="148" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="148" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="148" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="160" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="160" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="160" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="160" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="160" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="160" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="160" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="172" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="172" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="172" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="172" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="172" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="172" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="172" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="184" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="184" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="184" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="184" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="184" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="184" y="80" width="10" height="10" rx="2" fill="var(--color-level-3)" class="cell"/>
+  <rect x="184" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="196" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="196" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="196" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="196" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="196" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="196" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="196" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="208" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="208" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="208" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="208" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="208" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="208" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="208" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="220" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="220" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="220" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="220" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="220" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="220" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="220" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="232" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="232" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="232" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="232" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="232" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="232" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="232" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="244" y="20" width="10" height="10" rx="2" class="cell cell-17-0"/>
+  <rect x="244" y="32" width="10" height="10" rx="2" class="cell cell-17-1"/>
+  <rect x="244" y="44" width="10" height="10" rx="2" class="cell cell-17-2"/>
+  <rect x="244" y="56" width="10" height="10" rx="2" class="cell cell-17-3"/>
+  <rect x="244" y="68" width="10" height="10" rx="2" class="cell cell-17-4"/>
+  <rect x="244" y="80" width="10" height="10" rx="2" class="cell cell-17-5"/>
+  <rect x="244" y="92" width="10" height="10" rx="2" class="cell cell-17-6"/>
+  <rect x="256" y="20" width="10" height="10" rx="2" class="cell cell-18-0"/>
+  <rect x="256" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="256" y="44" width="10" height="10" rx="2" class="cell cell-18-2"/>
+  <rect x="256" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="256" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="256" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="256" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="268" y="20" width="10" height="10" rx="2" class="cell cell-19-0"/>
+  <rect x="268" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="268" y="44" width="10" height="10" rx="2" class="cell cell-19-2"/>
+  <rect x="268" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="268" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="268" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="268" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="280" y="20" width="10" height="10" rx="2" class="cell cell-20-0"/>
+  <rect x="280" y="32" width="10" height="10" rx="2" class="cell cell-20-1"/>
+  <rect x="280" y="44" width="10" height="10" rx="2" class="cell cell-20-2"/>
+  <rect x="280" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="280" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="280" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="280" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="292" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="292" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="292" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="292" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="292" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="292" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="292" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="304" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="304" y="32" width="10" height="10" rx="2" class="cell cell-22-1"/>
+  <rect x="304" y="44" width="10" height="10" rx="2" class="cell cell-22-2"/>
+  <rect x="304" y="56" width="10" height="10" rx="2" class="cell cell-22-3"/>
+  <rect x="304" y="68" width="10" height="10" rx="2" class="cell cell-22-4"/>
+  <rect x="304" y="80" width="10" height="10" rx="2" class="cell cell-22-5"/>
+  <rect x="304" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="316" y="20" width="10" height="10" rx="2" class="cell cell-23-0"/>
+  <rect x="316" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="316" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="316" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="316" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="316" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="316" y="92" width="10" height="10" rx="2" class="cell cell-23-6"/>
+  <rect x="328" y="20" width="10" height="10" rx="2" class="cell cell-24-0"/>
+  <rect x="328" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="328" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="328" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="328" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="328" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="328" y="92" width="10" height="10" rx="2" class="cell cell-24-6"/>
+  <rect x="340" y="20" width="10" height="10" rx="2" class="cell cell-25-0"/>
+  <rect x="340" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="340" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="340" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="340" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="340" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="340" y="92" width="10" height="10" rx="2" class="cell cell-25-6"/>
+  <rect x="352" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="352" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="352" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="352" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="352" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="352" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="352" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="364" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="364" y="32" width="10" height="10" rx="2" class="cell cell-27-1"/>
+  <rect x="364" y="44" width="10" height="10" rx="2" class="cell cell-27-2"/>
+  <rect x="364" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="364" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="364" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="364" y="92" width="10" height="10" rx="2" class="cell cell-27-6"/>
+  <rect x="376" y="20" width="10" height="10" rx="2" class="cell cell-28-0"/>
+  <rect x="376" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="376" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="376" y="56" width="10" height="10" rx="2" class="cell cell-28-3"/>
+  <rect x="376" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="376" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="376" y="92" width="10" height="10" rx="2" class="cell cell-28-6"/>
+  <rect x="388" y="20" width="10" height="10" rx="2" class="cell cell-29-0"/>
+  <rect x="388" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="388" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="388" y="56" width="10" height="10" rx="2" class="cell cell-29-3"/>
+  <rect x="388" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="388" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="388" y="92" width="10" height="10" rx="2" class="cell cell-29-6"/>
+  <rect x="400" y="20" width="10" height="10" rx="2" class="cell cell-30-0"/>
+  <rect x="400" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="400" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="400" y="56" width="10" height="10" rx="2" class="cell cell-30-3"/>
+  <rect x="400" y="68" width="10" height="10" rx="2" class="cell cell-30-4"/>
+  <rect x="400" y="80" width="10" height="10" rx="2" class="cell cell-30-5"/>
+  <rect x="400" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="412" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="412" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="412" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="412" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="412" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="412" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="412" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="424" y="20" width="10" height="10" rx="2" class="cell cell-32-0"/>
+  <rect x="424" y="32" width="10" height="10" rx="2" class="cell cell-32-1"/>
+  <rect x="424" y="44" width="10" height="10" rx="2" class="cell cell-32-2"/>
+  <rect x="424" y="56" width="10" height="10" rx="2" class="cell cell-32-3"/>
+  <rect x="424" y="68" width="10" height="10" rx="2" class="cell cell-32-4"/>
+  <rect x="424" y="80" width="10" height="10" rx="2" class="cell cell-32-5"/>
+  <rect x="424" y="92" width="10" height="10" rx="2" class="cell cell-32-6"/>
+  <rect x="436" y="20" width="10" height="10" rx="2" class="cell cell-33-0"/>
+  <rect x="436" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="436" y="44" width="10" height="10" rx="2" class="cell cell-33-2"/>
+  <rect x="436" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="436" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="436" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="436" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="448" y="20" width="10" height="10" rx="2" class="cell cell-34-0"/>
+  <rect x="448" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="448" y="44" width="10" height="10" rx="2" class="cell cell-34-2"/>
+  <rect x="448" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="448" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="448" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="448" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="460" y="20" width="10" height="10" rx="2" class="cell cell-35-0"/>
+  <rect x="460" y="32" width="10" height="10" rx="2" class="cell cell-35-1"/>
+  <rect x="460" y="44" width="10" height="10" rx="2" class="cell cell-35-2"/>
+  <rect x="460" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="460" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="460" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="460" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="472" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="472" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="472" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="472" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="472" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="472" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="472" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="484" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="484" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="484" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="484" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="484" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="484" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="484" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="496" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="496" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="496" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="496" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="496" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="496" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="496" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="508" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="508" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="508" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="508" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="508" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="508" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="508" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="520" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="520" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="520" y="44" width="10" height="10" rx="2" fill="var(--color-level-2)" class="cell"/>
+  <rect x="520" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="520" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="520" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="520" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="532" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="532" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="532" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="532" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="532" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="532" y="80" width="10" height="10" rx="2" fill="var(--color-level-1)" class="cell"/>
+  <rect x="532" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="544" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="544" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="544" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="544" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="544" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="544" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="544" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="556" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="556" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="556" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="556" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="556" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="556" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="556" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="568" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="568" y="32" width="10" height="10" rx="2" fill="var(--color-level-3)" class="cell"/>
+  <rect x="568" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="568" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="568" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="568" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="568" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="580" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="580" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="580" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="580" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="580" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="580" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="580" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="592" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="592" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="592" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="592" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="592" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="592" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="592" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="604" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="604" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="604" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="604" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="604" y="68" width="10" height="10" rx="2" fill="var(--color-level-2)" class="cell"/>
+  <rect x="604" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="604" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="616" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="616" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="616" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="616" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="616" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="616" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="616" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="628" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="628" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="628" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="628" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="628" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="628" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="628" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="640" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="640" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="640" y="44" width="10" height="10" rx="2" fill="var(--color-level-4)" class="cell"/>
+  <rect x="640" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="640" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="640" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="640" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="652" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="652" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="652" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="652" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="652" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="652" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="652" y="92" width="10" height="10" rx="2" fill="var(--color-level-1)" class="cell"/>
+  <rect x="664" y="20" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="664" y="32" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="664" y="44" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="664" y="56" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="664" y="68" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="664" y="80" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="664" y="92" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <text x="524" y="118" class="day-text">Less</text>
+  <rect x="554" y="110" width="10" height="10" rx="2" fill="var(--color-empty)" class="cell"/>
+  <rect x="566" y="110" width="10" height="10" rx="2" fill="var(--color-level-1)" class="cell"/>
+  <rect x="578" y="110" width="10" height="10" rx="2" fill="var(--color-level-2)" class="cell"/>
+  <rect x="590" y="110" width="10" height="10" rx="2" fill="var(--color-level-3)" class="cell"/>
+  <rect x="602" y="110" width="10" height="10" rx="2" fill="var(--color-level-4)" class="cell"/>
+  <text x="618" y="118" class="day-text">More</text>
+  <!-- Snake body elements -->
+  <rect width="10" height="10" rx="2" fill="#7b1fa2" class="snake-body-4"/>
+  <rect width="10" height="10" rx="2" fill="#8e24aa" class="snake-body-3"/>
+  <rect width="10" height="10" rx="2" fill="#ab47bc" class="snake-body-2"/>
+  <rect width="10" height="10" rx="2" fill="#ba68c8" class="snake-body-1"/>
+  <rect width="10" height="10" rx="2" fill="#e040fb" class="snake-head"/>
+</svg>

@@ -174,9 +174,9 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
 <img src="./github-stats/activity-graph.svg" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/refs/heads/output/github-contribution-grid-snake-Dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/refs/heads/output/github-contribution-grid-snake-Light.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/refs/heads/output/github-contribution-grid-snake-Light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./github-stats/github-contribution-grid-snake-Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-stats/github-contribution-grid-snake-Light.svg">
+  <img alt="github contribution grid snake animation" src="./github-stats/github-contribution-grid-snake-Light.svg">
 </picture>
 
 </div>
