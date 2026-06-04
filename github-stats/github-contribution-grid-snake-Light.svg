@@ -15,346 +15,547 @@
     }
     .month-text, .day-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 9px; fill: var(--color-text); }
     .cell { shape-rendering: crispEdges; }
-    .snake-head { animation: snake-move 20s infinite linear; animation-delay: -0.4s; }
-    .snake-body-1 { animation: snake-move 20s infinite linear; animation-delay: -0.3s; }
-    .snake-body-2 { animation: snake-move 20s infinite linear; animation-delay: -0.2s; }
-    .snake-body-3 { animation: snake-move 20s infinite linear; animation-delay: -0.1s; }
-    .snake-body-4 { animation: snake-move 20s infinite linear; animation-delay: 0s; }
+    .snake-head { animation: snake-move 35.68s infinite linear; animation-delay: -0.640s; }
+    .snake-body-1 { animation: snake-move 35.68s infinite linear; animation-delay: -0.480s; }
+    .snake-body-2 { animation: snake-move 35.68s infinite linear; animation-delay: -0.320s; }
+    .snake-body-3 { animation: snake-move 35.68s infinite linear; animation-delay: -0.160s; }
+    .snake-body-4 { animation: snake-move 35.68s infinite linear; animation-delay: 0s; }
     @keyframes snake-move {
-      0% { transform: translate(4px, 56px); }
-      12% { transform: translate(244px, 92px); }
-      18% { transform: translate(244px, 20px); }
-      22% { transform: translate(280px, 20px); }
-      26% { transform: translate(280px, 44px); }
-      30% { transform: translate(244px, 44px); }
-      37% { transform: translate(340px, 20px); }
-      40% { transform: translate(304px, 20px); }
-      46% { transform: translate(304px, 92px); }
-      49% { transform: translate(340px, 92px); }
-      55% { transform: translate(400px, 20px); }
-      58% { transform: translate(364px, 20px); }
-      61% { transform: translate(364px, 56px); }
-      64% { transform: translate(400px, 56px); }
-      67% { transform: translate(400px, 92px); }
-      70% { transform: translate(364px, 92px); }
-      74% { transform: translate(424px, 92px); }
-      80% { transform: translate(424px, 20px); }
-      84% { transform: translate(460px, 20px); }
-      88% { transform: translate(460px, 44px); }
-      92% { transform: translate(424px, 44px); }
-      100% { transform: translate(700px, 56px); }
+      0.0% { transform: translate(4px, 56px); }
+      0.45% { transform: translate(16px, 56px); }
+      0.9% { transform: translate(28px, 56px); }
+      1.35% { transform: translate(40px, 56px); }
+      1.8% { transform: translate(52px, 56px); }
+      2.25% { transform: translate(64px, 56px); }
+      2.7% { transform: translate(76px, 56px); }
+      3.15% { transform: translate(88px, 56px); }
+      3.6% { transform: translate(100px, 56px); }
+      4.05% { transform: translate(112px, 56px); }
+      4.5% { transform: translate(124px, 56px); }
+      4.95% { transform: translate(136px, 56px); }
+      5.41% { transform: translate(148px, 56px); }
+      5.86% { transform: translate(160px, 56px); }
+      6.31% { transform: translate(172px, 56px); }
+      6.76% { transform: translate(184px, 56px); }
+      7.21% { transform: translate(196px, 56px); }
+      7.66% { transform: translate(208px, 56px); }
+      8.11% { transform: translate(220px, 56px); }
+      8.56% { transform: translate(232px, 56px); }
+      9.01% { transform: translate(244px, 56px); }
+      9.46% { transform: translate(244px, 68px); }
+      9.91% { transform: translate(244px, 56px); }
+      10.36% { transform: translate(244px, 44px); }
+      10.81% { transform: translate(244px, 32px); }
+      11.26% { transform: translate(244px, 20px); }
+      11.71% { transform: translate(256px, 20px); }
+      12.16% { transform: translate(256px, 32px); }
+      12.61% { transform: translate(256px, 44px); }
+      13.06% { transform: translate(268px, 44px); }
+      13.51% { transform: translate(280px, 44px); }
+      13.96% { transform: translate(280px, 32px); }
+      14.41% { transform: translate(268px, 32px); }
+      14.86% { transform: translate(268px, 44px); }
+      15.32% { transform: translate(268px, 32px); }
+      15.77% { transform: translate(268px, 20px); }
+      16.22% { transform: translate(280px, 20px); }
+      16.67% { transform: translate(292px, 20px); }
+      17.12% { transform: translate(304px, 20px); }
+      17.57% { transform: translate(316px, 20px); }
+      18.02% { transform: translate(304px, 20px); }
+      18.47% { transform: translate(304px, 32px); }
+      18.92% { transform: translate(304px, 44px); }
+      19.37% { transform: translate(304px, 56px); }
+      19.82% { transform: translate(304px, 68px); }
+      20.27% { transform: translate(304px, 56px); }
+      20.72% { transform: translate(304px, 44px); }
+      21.17% { transform: translate(304px, 32px); }
+      21.62% { transform: translate(304px, 20px); }
+      22.07% { transform: translate(292px, 20px); }
+      22.52% { transform: translate(280px, 20px); }
+      22.97% { transform: translate(268px, 20px); }
+      23.42% { transform: translate(280px, 20px); }
+      23.87% { transform: translate(292px, 20px); }
+      24.32% { transform: translate(304px, 20px); }
+      24.77% { transform: translate(316px, 20px); }
+      25.23% { transform: translate(328px, 20px); }
+      25.68% { transform: translate(340px, 20px); }
+      26.13% { transform: translate(340px, 32px); }
+      26.58% { transform: translate(352px, 32px); }
+      27.03% { transform: translate(364px, 32px); }
+      27.48% { transform: translate(376px, 32px); }
+      27.93% { transform: translate(376px, 44px); }
+      28.38% { transform: translate(376px, 56px); }
+      28.83% { transform: translate(388px, 56px); }
+      29.28% { transform: translate(388px, 68px); }
+      29.73% { transform: translate(400px, 68px); }
+      30.18% { transform: translate(400px, 56px); }
+      30.63% { transform: translate(400px, 68px); }
+      31.08% { transform: translate(400px, 80px); }
+      31.53% { transform: translate(400px, 92px); }
+      31.98% { transform: translate(388px, 92px); }
+      32.43% { transform: translate(376px, 92px); }
+      32.88% { transform: translate(364px, 92px); }
+      33.33% { transform: translate(352px, 92px); }
+      33.78% { transform: translate(340px, 92px); }
+      34.23% { transform: translate(352px, 92px); }
+      34.68% { transform: translate(364px, 92px); }
+      35.14% { transform: translate(352px, 92px); }
+      35.59% { transform: translate(340px, 92px); }
+      36.04% { transform: translate(328px, 92px); }
+      36.49% { transform: translate(316px, 92px); }
+      36.94% { transform: translate(304px, 92px); }
+      37.39% { transform: translate(292px, 92px); }
+      37.84% { transform: translate(280px, 92px); }
+      38.29% { transform: translate(268px, 92px); }
+      38.74% { transform: translate(256px, 92px); }
+      39.19% { transform: translate(244px, 92px); }
+      39.64% { transform: translate(244px, 80px); }
+      40.09% { transform: translate(244px, 68px); }
+      40.54% { transform: translate(244px, 56px); }
+      40.99% { transform: translate(244px, 44px); }
+      41.44% { transform: translate(256px, 44px); }
+      41.89% { transform: translate(268px, 44px); }
+      42.34% { transform: translate(280px, 44px); }
+      42.79% { transform: translate(292px, 44px); }
+      43.24% { transform: translate(304px, 44px); }
+      43.69% { transform: translate(316px, 44px); }
+      44.14% { transform: translate(328px, 44px); }
+      44.59% { transform: translate(340px, 44px); }
+      45.05% { transform: translate(352px, 44px); }
+      45.5% { transform: translate(364px, 44px); }
+      45.95% { transform: translate(376px, 44px); }
+      46.4% { transform: translate(388px, 44px); }
+      46.85% { transform: translate(400px, 44px); }
+      47.3% { transform: translate(400px, 32px); }
+      47.75% { transform: translate(400px, 20px); }
+      48.2% { transform: translate(412px, 20px); }
+      48.65% { transform: translate(424px, 20px); }
+      49.1% { transform: translate(436px, 20px); }
+      49.55% { transform: translate(436px, 32px); }
+      50.0% { transform: translate(436px, 44px); }
+      50.45% { transform: translate(424px, 44px); }
+      50.9% { transform: translate(424px, 32px); }
+      51.35% { transform: translate(424px, 44px); }
+      51.8% { transform: translate(424px, 56px); }
+      52.25% { transform: translate(424px, 68px); }
+      52.7% { transform: translate(424px, 56px); }
+      53.15% { transform: translate(424px, 44px); }
+      53.6% { transform: translate(436px, 44px); }
+      54.05% { transform: translate(448px, 44px); }
+      54.5% { transform: translate(436px, 44px); }
+      54.95% { transform: translate(424px, 44px); }
+      55.41% { transform: translate(436px, 44px); }
+      55.86% { transform: translate(448px, 44px); }
+      56.31% { transform: translate(460px, 44px); }
+      56.76% { transform: translate(460px, 32px); }
+      57.21% { transform: translate(460px, 20px); }
+      57.66% { transform: translate(448px, 20px); }
+      58.11% { transform: translate(436px, 20px); }
+      58.56% { transform: translate(424px, 20px); }
+      59.01% { transform: translate(412px, 20px); }
+      59.46% { transform: translate(400px, 20px); }
+      59.91% { transform: translate(388px, 20px); }
+      60.36% { transform: translate(376px, 20px); }
+      60.81% { transform: translate(388px, 20px); }
+      61.26% { transform: translate(388px, 32px); }
+      61.71% { transform: translate(388px, 44px); }
+      62.16% { transform: translate(388px, 56px); }
+      62.61% { transform: translate(388px, 68px); }
+      63.06% { transform: translate(388px, 80px); }
+      63.51% { transform: translate(388px, 92px); }
+      63.96% { transform: translate(376px, 92px); }
+      64.41% { transform: translate(364px, 92px); }
+      64.86% { transform: translate(352px, 92px); }
+      65.32% { transform: translate(340px, 92px); }
+      65.77% { transform: translate(328px, 92px); }
+      66.22% { transform: translate(316px, 92px); }
+      66.67% { transform: translate(304px, 92px); }
+      67.12% { transform: translate(304px, 80px); }
+      67.57% { transform: translate(292px, 80px); }
+      68.02% { transform: translate(280px, 80px); }
+      68.47% { transform: translate(268px, 80px); }
+      68.92% { transform: translate(256px, 80px); }
+      69.37% { transform: translate(244px, 80px); }
+      69.82% { transform: translate(256px, 80px); }
+      70.27% { transform: translate(268px, 80px); }
+      70.72% { transform: translate(280px, 80px); }
+      71.17% { transform: translate(292px, 80px); }
+      71.62% { transform: translate(304px, 80px); }
+      72.07% { transform: translate(316px, 80px); }
+      72.52% { transform: translate(328px, 80px); }
+      72.97% { transform: translate(340px, 80px); }
+      73.42% { transform: translate(352px, 80px); }
+      73.87% { transform: translate(364px, 80px); }
+      74.32% { transform: translate(376px, 80px); }
+      74.77% { transform: translate(388px, 80px); }
+      75.23% { transform: translate(400px, 80px); }
+      75.68% { transform: translate(412px, 80px); }
+      76.13% { transform: translate(424px, 80px); }
+      76.58% { transform: translate(424px, 92px); }
+      77.03% { transform: translate(436px, 92px); }
+      77.48% { transform: translate(448px, 92px); }
+      77.93% { transform: translate(460px, 92px); }
+      78.38% { transform: translate(460px, 80px); }
+      78.83% { transform: translate(460px, 68px); }
+      79.28% { transform: translate(460px, 56px); }
+      79.73% { transform: translate(460px, 44px); }
+      80.18% { transform: translate(460px, 32px); }
+      80.63% { transform: translate(460px, 20px); }
+      81.08% { transform: translate(448px, 20px); }
+      81.53% { transform: translate(436px, 20px); }
+      81.98% { transform: translate(424px, 20px); }
+      82.43% { transform: translate(412px, 20px); }
+      82.88% { transform: translate(400px, 20px); }
+      83.33% { transform: translate(388px, 20px); }
+      83.78% { transform: translate(388px, 32px); }
+      84.23% { transform: translate(388px, 44px); }
+      84.68% { transform: translate(388px, 56px); }
+      85.14% { transform: translate(388px, 68px); }
+      85.59% { transform: translate(388px, 80px); }
+      86.04% { transform: translate(400px, 80px); }
+      86.49% { transform: translate(412px, 80px); }
+      86.94% { transform: translate(424px, 80px); }
+      87.39% { transform: translate(436px, 80px); }
+      87.84% { transform: translate(448px, 80px); }
+      88.29% { transform: translate(460px, 80px); }
+      88.74% { transform: translate(460px, 68px); }
+      89.19% { transform: translate(460px, 56px); }
+      89.64% { transform: translate(460px, 44px); }
+      90.09% { transform: translate(460px, 32px); }
+      90.54% { transform: translate(460px, 44px); }
+      90.99% { transform: translate(460px, 56px); }
+      91.44% { transform: translate(472px, 56px); }
+      91.89% { transform: translate(484px, 56px); }
+      92.34% { transform: translate(496px, 56px); }
+      92.79% { transform: translate(508px, 56px); }
+      93.24% { transform: translate(520px, 56px); }
+      93.69% { transform: translate(532px, 56px); }
+      94.14% { transform: translate(544px, 56px); }
+      94.59% { transform: translate(556px, 56px); }
+      95.05% { transform: translate(568px, 56px); }
+      95.5% { transform: translate(580px, 56px); }
+      95.95% { transform: translate(592px, 56px); }
+      96.4% { transform: translate(604px, 56px); }
+      96.85% { transform: translate(616px, 56px); }
+      97.3% { transform: translate(628px, 56px); }
+      97.75% { transform: translate(640px, 56px); }
+      98.2% { transform: translate(652px, 56px); }
+      98.65% { transform: translate(664px, 56px); }
+      99.1% { transform: translate(676px, 56px); }
+      99.55% { transform: translate(688px, 56px); }
+      100.0% { transform: translate(700px, 56px); }
     }
-    .cell-17-6 { animation: eat-17-6 20s infinite; }
-    @keyframes eat-17-6 {
-      0%, 12.0% { fill: var(--color-level-4); }
-      12.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
-    }
-    .cell-17-5 { animation: eat-17-5 20s infinite; }
-    @keyframes eat-17-5 {
-      0%, 13.0% { fill: var(--color-level-1); }
-      13.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-1); }
-    }
-    .cell-17-4 { animation: eat-17-4 20s infinite; }
-    @keyframes eat-17-4 {
-      0%, 14.0% { fill: var(--color-level-3); }
-      14.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
-    }
-    .cell-17-3 { animation: eat-17-3 20s infinite; }
+    .cell-17-3 { animation: eat-17-3 35.68s infinite; }
     @keyframes eat-17-3 {
-      0%, 15.0% { fill: var(--color-level-2); }
-      15.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-2); }
+      0%, 9.01% { fill: var(--color-level-2); }
+      9.31%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-2); }
     }
-    .cell-17-2 { animation: eat-17-2 20s infinite; }
+    .cell-17-4 { animation: eat-17-4 35.68s infinite; }
+    @keyframes eat-17-4 {
+      0%, 9.46% { fill: var(--color-level-3); }
+      9.760000000000002%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-17-2 { animation: eat-17-2 35.68s infinite; }
     @keyframes eat-17-2 {
-      0%, 16.0% { fill: var(--color-level-4); }
-      16.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
+      0%, 10.36% { fill: var(--color-level-4); }
+      10.66%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
     }
-    .cell-17-1 { animation: eat-17-1 20s infinite; }
+    .cell-17-1 { animation: eat-17-1 35.68s infinite; }
     @keyframes eat-17-1 {
-      0%, 17.0% { fill: var(--color-level-3); }
-      17.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
+      0%, 10.81% { fill: var(--color-level-3); }
+      11.110000000000001%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
     }
-    .cell-17-0 { animation: eat-17-0 20s infinite; }
+    .cell-17-0 { animation: eat-17-0 35.68s infinite; }
     @keyframes eat-17-0 {
-      0%, 18.0% { fill: var(--color-level-4); }
-      18.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
+      0%, 11.26% { fill: var(--color-level-4); }
+      11.56%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
     }
-    .cell-18-0 { animation: eat-18-0 20s infinite; }
+    .cell-18-0 { animation: eat-18-0 35.68s infinite; }
     @keyframes eat-18-0 {
-      0%, 19.3% { fill: var(--color-level-3); }
-      19.8%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
+      0%, 11.71% { fill: var(--color-level-3); }
+      12.010000000000002%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
     }
-    .cell-19-0 { animation: eat-19-0 20s infinite; }
-    @keyframes eat-19-0 {
-      0%, 20.7% { fill: var(--color-level-2); }
-      21.2%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-2); }
-    }
-    .cell-20-0 { animation: eat-20-0 20s infinite; }
-    @keyframes eat-20-0 {
-      0%, 22.0% { fill: var(--color-level-4); }
-      22.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
-    }
-    .cell-20-1 { animation: eat-20-1 20s infinite; }
-    @keyframes eat-20-1 {
-      0%, 24.0% { fill: var(--color-level-2); }
-      24.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-2); }
-    }
-    .cell-20-2 { animation: eat-20-2 20s infinite; }
-    @keyframes eat-20-2 {
-      0%, 26.0% { fill: var(--color-level-3); }
-      26.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
-    }
-    .cell-19-2 { animation: eat-19-2 20s infinite; }
-    @keyframes eat-19-2 {
-      0%, 28.0% { fill: var(--color-level-3); }
-      28.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
-    }
-    .cell-18-2 { animation: eat-18-2 20s infinite; }
+    .cell-18-2 { animation: eat-18-2 35.68s infinite; }
     @keyframes eat-18-2 {
-      0%, 30.0% { fill: var(--color-level-4); }
-      30.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
+      0%, 12.61% { fill: var(--color-level-4); }
+      12.91%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
     }
-    .cell-25-0 { animation: eat-25-0 20s infinite; }
-    @keyframes eat-25-0 {
-      0%, 37.0% { fill: var(--color-level-2); }
-      37.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-2); }
+    .cell-20-2 { animation: eat-20-2 35.68s infinite; }
+    @keyframes eat-20-2 {
+      0%, 13.51% { fill: var(--color-level-3); }
+      13.81%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
     }
-    .cell-24-0 { animation: eat-24-0 20s infinite; }
-    @keyframes eat-24-0 {
-      0%, 38.5% { fill: var(--color-level-4); }
-      39.0%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
+    .cell-20-1 { animation: eat-20-1 35.68s infinite; }
+    @keyframes eat-20-1 {
+      0%, 13.96% { fill: var(--color-level-2); }
+      14.260000000000002%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-2); }
     }
-    .cell-23-0 { animation: eat-23-0 20s infinite; }
+    .cell-19-2 { animation: eat-19-2 35.68s infinite; }
+    @keyframes eat-19-2 {
+      0%, 14.86% { fill: var(--color-level-3); }
+      15.16%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-20-0 { animation: eat-20-0 35.68s infinite; }
+    @keyframes eat-20-0 {
+      0%, 16.22% { fill: var(--color-level-4); }
+      16.52%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-23-0 { animation: eat-23-0 35.68s infinite; }
     @keyframes eat-23-0 {
-      0%, 40.0% { fill: var(--color-level-3); }
-      40.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
+      0%, 17.57% { fill: var(--color-level-3); }
+      17.87%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
     }
-    .cell-22-1 { animation: eat-22-1 20s infinite; }
+    .cell-22-1 { animation: eat-22-1 35.68s infinite; }
     @keyframes eat-22-1 {
-      0%, 41.5% { fill: var(--color-level-4); }
-      42.0%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
+      0%, 18.47% { fill: var(--color-level-4); }
+      18.77%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
     }
-    .cell-22-2 { animation: eat-22-2 20s infinite; }
-    @keyframes eat-22-2 {
-      0%, 42.5% { fill: var(--color-level-2); }
-      43.0%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-2); }
-    }
-    .cell-22-3 { animation: eat-22-3 20s infinite; }
-    @keyframes eat-22-3 {
-      0%, 43.5% { fill: var(--color-level-3); }
-      44.0%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
-    }
-    .cell-22-4 { animation: eat-22-4 20s infinite; }
+    .cell-22-4 { animation: eat-22-4 35.68s infinite; }
     @keyframes eat-22-4 {
-      0%, 44.5% { fill: var(--color-level-1); }
-      45.0%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-1); }
+      0%, 19.82% { fill: var(--color-level-1); }
+      20.12%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-1); }
     }
-    .cell-22-5 { animation: eat-22-5 20s infinite; }
-    @keyframes eat-22-5 {
-      0%, 46.0% { fill: var(--color-level-4); }
-      46.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
+    .cell-22-3 { animation: eat-22-3 35.68s infinite; }
+    @keyframes eat-22-3 {
+      0%, 20.27% { fill: var(--color-level-3); }
+      20.57%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
     }
-    .cell-23-6 { animation: eat-23-6 20s infinite; }
-    @keyframes eat-23-6 {
-      0%, 47.0% { fill: var(--color-level-2); }
-      47.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-2); }
+    .cell-22-2 { animation: eat-22-2 35.68s infinite; }
+    @keyframes eat-22-2 {
+      0%, 20.72% { fill: var(--color-level-2); }
+      21.02%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-2); }
     }
-    .cell-24-6 { animation: eat-24-6 20s infinite; }
-    @keyframes eat-24-6 {
-      0%, 48.0% { fill: var(--color-level-3); }
-      48.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
+    .cell-19-0 { animation: eat-19-0 35.68s infinite; }
+    @keyframes eat-19-0 {
+      0%, 22.97% { fill: var(--color-level-2); }
+      23.27%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-2); }
     }
-    .cell-25-6 { animation: eat-25-6 20s infinite; }
-    @keyframes eat-25-6 {
-      0%, 49.0% { fill: var(--color-level-4); }
-      49.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
+    .cell-24-0 { animation: eat-24-0 35.68s infinite; }
+    @keyframes eat-24-0 {
+      0%, 25.23% { fill: var(--color-level-4); }
+      25.53%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
     }
-    .cell-30-0 { animation: eat-30-0 20s infinite; }
-    @keyframes eat-30-0 {
-      0%, 55.0% { fill: var(--color-level-4); }
-      55.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
+    .cell-25-0 { animation: eat-25-0 35.68s infinite; }
+    @keyframes eat-25-0 {
+      0%, 25.68% { fill: var(--color-level-2); }
+      25.98%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-2); }
     }
-    .cell-29-0 { animation: eat-29-0 20s infinite; }
-    @keyframes eat-29-0 {
-      0%, 56.0% { fill: var(--color-level-3); }
-      56.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
-    }
-    .cell-28-0 { animation: eat-28-0 20s infinite; }
-    @keyframes eat-28-0 {
-      0%, 57.0% { fill: var(--color-level-4); }
-      57.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
-    }
-    .cell-27-1 { animation: eat-27-1 20s infinite; }
+    .cell-27-1 { animation: eat-27-1 35.68s infinite; }
     @keyframes eat-27-1 {
-      0%, 58.0% { fill: var(--color-level-3); }
-      58.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
+      0%, 27.03% { fill: var(--color-level-3); }
+      27.330000000000002%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
     }
-    .cell-27-2 { animation: eat-27-2 20s infinite; }
-    @keyframes eat-27-2 {
-      0%, 59.5% { fill: var(--color-level-2); }
-      60.0%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-2); }
-    }
-    .cell-28-3 { animation: eat-28-3 20s infinite; }
+    .cell-28-3 { animation: eat-28-3 35.68s infinite; }
     @keyframes eat-28-3 {
-      0%, 61.0% { fill: var(--color-level-4); }
-      61.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
+      0%, 28.38% { fill: var(--color-level-4); }
+      28.68%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
     }
-    .cell-29-3 { animation: eat-29-3 20s infinite; }
+    .cell-29-3 { animation: eat-29-3 35.68s infinite; }
     @keyframes eat-29-3 {
-      0%, 62.5% { fill: var(--color-level-2); }
-      63.0%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-2); }
+      0%, 28.83% { fill: var(--color-level-2); }
+      29.13%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-2); }
     }
-    .cell-30-3 { animation: eat-30-3 20s infinite; }
-    @keyframes eat-30-3 {
-      0%, 64.0% { fill: var(--color-level-3); }
-      64.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
-    }
-    .cell-30-4 { animation: eat-30-4 20s infinite; }
+    .cell-30-4 { animation: eat-30-4 35.68s infinite; }
     @keyframes eat-30-4 {
-      0%, 65.0% { fill: var(--color-level-4); }
-      65.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
+      0%, 29.73% { fill: var(--color-level-4); }
+      30.03%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
     }
-    .cell-30-5 { animation: eat-30-5 20s infinite; }
+    .cell-30-3 { animation: eat-30-3 35.68s infinite; }
+    @keyframes eat-30-3 {
+      0%, 30.18% { fill: var(--color-level-3); }
+      30.48%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-30-5 { animation: eat-30-5 35.68s infinite; }
     @keyframes eat-30-5 {
-      0%, 66.0% { fill: var(--color-level-2); }
-      66.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-2); }
+      0%, 31.08% { fill: var(--color-level-2); }
+      31.38%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-2); }
     }
-    .cell-29-6 { animation: eat-29-6 20s infinite; }
-    @keyframes eat-29-6 {
-      0%, 67.3% { fill: var(--color-level-3); }
-      67.8%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
-    }
-    .cell-28-6 { animation: eat-28-6 20s infinite; }
+    .cell-28-6 { animation: eat-28-6 35.68s infinite; }
     @keyframes eat-28-6 {
-      0%, 68.7% { fill: var(--color-level-4); }
-      69.2%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
+      0%, 32.43% { fill: var(--color-level-4); }
+      32.73%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
     }
-    .cell-27-6 { animation: eat-27-6 20s infinite; }
+    .cell-25-6 { animation: eat-25-6 35.68s infinite; }
+    @keyframes eat-25-6 {
+      0%, 33.78% { fill: var(--color-level-4); }
+      34.08%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-27-6 { animation: eat-27-6 35.68s infinite; }
     @keyframes eat-27-6 {
-      0%, 70.0% { fill: var(--color-level-3); }
-      70.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
+      0%, 34.68% { fill: var(--color-level-3); }
+      34.98%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
     }
-    .cell-32-6 { animation: eat-32-6 20s infinite; }
-    @keyframes eat-32-6 {
-      0%, 74.0% { fill: var(--color-level-3); }
-      74.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
+    .cell-24-6 { animation: eat-24-6 35.68s infinite; }
+    @keyframes eat-24-6 {
+      0%, 36.04% { fill: var(--color-level-3); }
+      36.339999999999996%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
     }
-    .cell-32-5 { animation: eat-32-5 20s infinite; }
-    @keyframes eat-32-5 {
-      0%, 75.0% { fill: var(--color-level-2); }
-      75.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-2); }
+    .cell-23-6 { animation: eat-23-6 35.68s infinite; }
+    @keyframes eat-23-6 {
+      0%, 36.49% { fill: var(--color-level-2); }
+      36.79%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-2); }
     }
-    .cell-32-4 { animation: eat-32-4 20s infinite; }
-    @keyframes eat-32-4 {
-      0%, 76.0% { fill: var(--color-level-4); }
-      76.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
+    .cell-17-6 { animation: eat-17-6 35.68s infinite; }
+    @keyframes eat-17-6 {
+      0%, 39.19% { fill: var(--color-level-4); }
+      39.489999999999995%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
     }
-    .cell-32-3 { animation: eat-32-3 20s infinite; }
-    @keyframes eat-32-3 {
-      0%, 77.0% { fill: var(--color-level-1); }
-      77.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-1); }
+    .cell-27-2 { animation: eat-27-2 35.68s infinite; }
+    @keyframes eat-27-2 {
+      0%, 45.5% { fill: var(--color-level-2); }
+      45.8%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-2); }
     }
-    .cell-32-2 { animation: eat-32-2 20s infinite; }
-    @keyframes eat-32-2 {
-      0%, 78.0% { fill: var(--color-level-4); }
-      78.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
+    .cell-30-0 { animation: eat-30-0 35.68s infinite; }
+    @keyframes eat-30-0 {
+      0%, 47.75% { fill: var(--color-level-4); }
+      48.05%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
     }
-    .cell-32-1 { animation: eat-32-1 20s infinite; }
-    @keyframes eat-32-1 {
-      0%, 79.0% { fill: var(--color-level-3); }
-      79.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
-    }
-    .cell-32-0 { animation: eat-32-0 20s infinite; }
+    .cell-32-0 { animation: eat-32-0 35.68s infinite; }
     @keyframes eat-32-0 {
-      0%, 80.0% { fill: var(--color-level-4); }
-      80.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
+      0%, 48.65% { fill: var(--color-level-4); }
+      48.949999999999996%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
     }
-    .cell-33-0 { animation: eat-33-0 20s infinite; }
+    .cell-33-0 { animation: eat-33-0 35.68s infinite; }
     @keyframes eat-33-0 {
-      0%, 81.3% { fill: var(--color-level-3); }
-      81.8%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
+      0%, 49.1% { fill: var(--color-level-3); }
+      49.4%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
     }
-    .cell-34-0 { animation: eat-34-0 20s infinite; }
-    @keyframes eat-34-0 {
-      0%, 82.7% { fill: var(--color-level-4); }
-      83.2%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
-    }
-    .cell-35-0 { animation: eat-35-0 20s infinite; }
-    @keyframes eat-35-0 {
-      0%, 84.0% { fill: var(--color-level-2); }
-      84.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-2); }
-    }
-    .cell-35-1 { animation: eat-35-1 20s infinite; }
-    @keyframes eat-35-1 {
-      0%, 86.0% { fill: var(--color-level-4); }
-      86.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-4); }
-    }
-    .cell-35-2 { animation: eat-35-2 20s infinite; }
-    @keyframes eat-35-2 {
-      0%, 88.0% { fill: var(--color-level-3); }
-      88.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
-    }
-    .cell-34-2 { animation: eat-34-2 20s infinite; }
-    @keyframes eat-34-2 {
-      0%, 90.0% { fill: var(--color-level-3); }
-      90.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-3); }
-    }
-    .cell-33-2 { animation: eat-33-2 20s infinite; }
+    .cell-33-2 { animation: eat-33-2 35.68s infinite; }
     @keyframes eat-33-2 {
-      0%, 92.0% { fill: var(--color-level-2); }
-      92.5%, 98% { fill: var(--color-empty); }
-      99%, 100% { fill: var(--color-level-2); }
+      0%, 50.0% { fill: var(--color-level-2); }
+      50.3%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-2); }
+    }
+    .cell-32-1 { animation: eat-32-1 35.68s infinite; }
+    @keyframes eat-32-1 {
+      0%, 50.9% { fill: var(--color-level-3); }
+      51.199999999999996%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-32-3 { animation: eat-32-3 35.68s infinite; }
+    @keyframes eat-32-3 {
+      0%, 51.8% { fill: var(--color-level-1); }
+      52.099999999999994%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-1); }
+    }
+    .cell-32-4 { animation: eat-32-4 35.68s infinite; }
+    @keyframes eat-32-4 {
+      0%, 52.25% { fill: var(--color-level-4); }
+      52.55%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-34-2 { animation: eat-34-2 35.68s infinite; }
+    @keyframes eat-34-2 {
+      0%, 54.05% { fill: var(--color-level-3); }
+      54.349999999999994%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-32-2 { animation: eat-32-2 35.68s infinite; }
+    @keyframes eat-32-2 {
+      0%, 54.95% { fill: var(--color-level-4); }
+      55.25%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-35-2 { animation: eat-35-2 35.68s infinite; }
+    @keyframes eat-35-2 {
+      0%, 56.31% { fill: var(--color-level-3); }
+      56.61%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-34-0 { animation: eat-34-0 35.68s infinite; }
+    @keyframes eat-34-0 {
+      0%, 57.66% { fill: var(--color-level-4); }
+      57.959999999999994%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-28-0 { animation: eat-28-0 35.68s infinite; }
+    @keyframes eat-28-0 {
+      0%, 60.36% { fill: var(--color-level-4); }
+      60.66%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-29-6 { animation: eat-29-6 35.68s infinite; }
+    @keyframes eat-29-6 {
+      0%, 63.51% { fill: var(--color-level-3); }
+      63.809999999999995%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-22-5 { animation: eat-22-5 35.68s infinite; }
+    @keyframes eat-22-5 {
+      0%, 67.12% { fill: var(--color-level-4); }
+      67.42%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
+    }
+    .cell-17-5 { animation: eat-17-5 35.68s infinite; }
+    @keyframes eat-17-5 {
+      0%, 69.37% { fill: var(--color-level-1); }
+      69.67%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-1); }
+    }
+    .cell-32-6 { animation: eat-32-6 35.68s infinite; }
+    @keyframes eat-32-6 {
+      0%, 76.58% { fill: var(--color-level-3); }
+      76.88%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-35-0 { animation: eat-35-0 35.68s infinite; }
+    @keyframes eat-35-0 {
+      0%, 80.63% { fill: var(--color-level-2); }
+      80.92999999999999%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-2); }
+    }
+    .cell-29-0 { animation: eat-29-0 35.68s infinite; }
+    @keyframes eat-29-0 {
+      0%, 83.33% { fill: var(--color-level-3); }
+      83.63%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-3); }
+    }
+    .cell-32-5 { animation: eat-32-5 35.68s infinite; }
+    @keyframes eat-32-5 {
+      0%, 86.94% { fill: var(--color-level-2); }
+      87.24%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-2); }
+    }
+    .cell-35-1 { animation: eat-35-1 35.68s infinite; }
+    @keyframes eat-35-1 {
+      0%, 90.09% { fill: var(--color-level-4); }
+      90.39%, 97.5% { fill: var(--color-empty); }
+      98.5%, 100% { fill: var(--color-level-4); }
     }
   </style>
   <text x="40" y="12" class="month-text">Jan</text>
