@@ -187,17 +187,20 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
   </tr>
 </table>
 
-<br/>
-
-<img src="./github-stats/activity-graph.svg" />
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-stats/github-contribution-grid-snake-Dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./github-stats/github-contribution-grid-snake-Light.svg">
-  <img alt="github contribution grid snake animation" src="./github-stats/github-contribution-grid-snake-Light.svg">
-</picture>
+<table style="border: none; border-collapse: collapse; margin: 0 auto;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;" align="center" valign="middle">
+      <img width="450" src="./github-stats/activity-graph.svg" />
+    </td>
+    <td style="border: none; padding: 5px;" align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./github-stats/github-contribution-grid-snake-Dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./github-stats/github-contribution-grid-snake-Light.svg">
+        <img width="450" alt="github contribution grid snake animation" src="./github-stats/github-contribution-grid-snake-Light.svg">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 </div>
 
