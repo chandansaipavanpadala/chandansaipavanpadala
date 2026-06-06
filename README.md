@@ -164,19 +164,28 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img height="195" src="./github-stats/github-stats.svg"/>
-<img height="195" src="./github-stats/streak-stats.svg"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-stats/github-activity-radar-Heart-Dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./github-stats/github-activity-radar-Heart-Light.svg">
-  <img height="220" alt="github activity radar chart" src="./github-stats/github-activity-radar-Heart-Light.svg">
-</picture>
-<img height="220" src="./github-stats/top-langs.svg"/>
+<table style="border: none; border-collapse: collapse; margin: 0 auto;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;" align="center" valign="middle">
+      <img height="195" src="./github-stats/github-stats.svg"/>
+    </td>
+    <td style="border: none; padding: 5px;" align="center" valign="middle">
+      <img height="195" src="./github-stats/streak-stats.svg"/>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 5px;" align="center" valign="middle">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./github-stats/github-activity-radar-Heart-Dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./github-stats/github-activity-radar-Heart-Light.svg">
+        <img height="220" alt="github activity radar chart" src="./github-stats/github-activity-radar-Heart-Light.svg">
+      </picture>
+    </td>
+    <td style="border: none; padding: 5px;" align="center" valign="middle">
+      <img height="220" src="./github-stats/top-langs.svg"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
