@@ -166,17 +166,23 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
 
 <div align="center">
 
-<img height="180em" src="./github-stats/github-stats.svg"/>
-<img height="180em" src="./github-stats/top-langs.svg"/>
+<img height="195" src="./github-stats/github-stats.svg"/>
+<img height="195" src="./github-stats/streak-stats.svg"/>
+
+<br/>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-stats/github-activity-radar-Heart-Dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./github-stats/github-activity-radar-Heart-Light.svg">
-  <img height="180em" alt="github activity radar chart" src="./github-stats/github-activity-radar-Heart-Light.svg">
+  <img height="220" alt="github activity radar chart" src="./github-stats/github-activity-radar-Heart-Light.svg">
 </picture>
+<img height="220" src="./github-stats/top-langs.svg"/>
 
-<img src="./github-stats/streak-stats.svg" />
+<br/>
 
 <img src="./github-stats/activity-graph.svg" />
+
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-stats/github-contribution-grid-snake-Dark.svg">
