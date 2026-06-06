@@ -1,0 +1,79 @@
+<svg width="350" height="350" viewBox="0 0 350 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="350" height="350" rx="12" fill="var(--color-bg)" stroke="var(--color-border)" stroke-width="1"/>
+  <style>
+    :root {
+
+  --color-bg: #0d1117;
+  --color-border: #30363d;
+  --color-grid: #30363d;
+  --color-axis: #8b949e;
+  --color-text-main: #ffffff;
+  --color-text-sub: #8b949e;
+  --color-poly-stroke: #47c26c;
+  --color-poly-fill: rgba(71, 194, 108, 0.22);
+  --color-dot-fill: #ffffff;
+
+    }
+    .axis-line { stroke: var(--color-axis); stroke-width: 1.5; stroke-opacity: 0.5; }
+    .grid-line { stroke: var(--color-grid); stroke-width: 1; stroke-opacity: 0.5; stroke-dasharray: 3,3; }
+    .text-pct { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; font-weight: bold; fill: var(--color-text-main); }
+    .text-lbl { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 10px; fill: var(--color-text-sub); }
+    .radar-poly { stroke: var(--color-poly-stroke); stroke-width: 3; fill: var(--color-poly-fill); stroke-linejoin: round; }
+    .radar-dot { fill: var(--color-dot-fill); stroke: var(--color-poly-stroke); stroke-width: 2.5; }
+    .center-dot { fill: var(--color-poly-stroke); }
+  </style>
+  <polygon points="175.00,150.00 187.50,153.35 196.65,162.50 200.00,175.00 196.65,187.50 187.50,196.65 175.00,200.00 162.50,196.65 153.35,187.50 150.00,175.00 153.35,162.50 162.50,153.35" class="grid-line" fill="none"/>
+  <polygon points="175.00,125.00 200.00,131.70 218.30,150.00 225.00,175.00 218.30,200.00 200.00,218.30 175.00,225.00 150.00,218.30 131.70,200.00 125.00,175.00 131.70,150.00 150.00,131.70" class="grid-line" fill="none"/>
+  <polygon points="175.00,100.00 212.50,110.05 239.95,137.50 250.00,175.00 239.95,212.50 212.50,239.95 175.00,250.00 137.50,239.95 110.05,212.50 100.00,175.00 110.05,137.50 137.50,110.05" class="grid-line" fill="none"/>
+  <polygon points="175.00,75.00 225.00,88.40 261.60,125.00 275.00,175.00 261.60,225.00 225.00,261.60 175.00,275.00 125.00,261.60 88.40,225.00 75.00,175.00 88.40,125.00 125.00,88.40" class="grid-line" fill="none"/>
+  <line x1="175" y1="175" x2="175.00" y2="75.00" class="axis-line"/>
+  <line x1="175" y1="175" x2="225.00" y2="88.40" class="axis-line"/>
+  <line x1="175" y1="175" x2="261.60" y2="125.00" class="axis-line"/>
+  <line x1="175" y1="175" x2="275.00" y2="175.00" class="axis-line"/>
+  <line x1="175" y1="175" x2="261.60" y2="225.00" class="axis-line"/>
+  <line x1="175" y1="175" x2="225.00" y2="261.60" class="axis-line"/>
+  <line x1="175" y1="175" x2="175.00" y2="275.00" class="axis-line"/>
+  <line x1="175" y1="175" x2="125.00" y2="261.60" class="axis-line"/>
+  <line x1="175" y1="175" x2="88.40" y2="225.00" class="axis-line"/>
+  <line x1="175" y1="175" x2="75.00" y2="175.00" class="axis-line"/>
+  <line x1="175" y1="175" x2="88.40" y2="125.00" class="axis-line"/>
+  <line x1="175" y1="175" x2="125.00" y2="88.40" class="axis-line"/>
+  <circle cx="175" cy="175" r="3" class="center-dot"/>
+  <polygon points="175.00,80.00 207.50,118.71 257.27,127.50 240.00,175.00 257.27,222.50 207.50,231.29 175.00,270.00 142.50,231.29 92.73,222.50 110.00,175.00 92.73,127.50 142.50,118.71" class="radar-poly"/>
+  <circle cx="175.00" cy="80.00" r="4.5" class="radar-dot"/>
+  <circle cx="207.50" cy="118.71" r="4.5" class="radar-dot"/>
+  <circle cx="257.27" cy="127.50" r="4.5" class="radar-dot"/>
+  <circle cx="240.00" cy="175.00" r="4.5" class="radar-dot"/>
+  <circle cx="257.27" cy="222.50" r="4.5" class="radar-dot"/>
+  <circle cx="207.50" cy="231.29" r="4.5" class="radar-dot"/>
+  <circle cx="175.00" cy="270.00" r="4.5" class="radar-dot"/>
+  <circle cx="142.50" cy="231.29" r="4.5" class="radar-dot"/>
+  <circle cx="92.73" cy="222.50" r="4.5" class="radar-dot"/>
+  <circle cx="110.00" cy="175.00" r="4.5" class="radar-dot"/>
+  <circle cx="92.73" cy="127.50" r="4.5" class="radar-dot"/>
+  <circle cx="142.50" cy="118.71" r="4.5" class="radar-dot"/>
+  <text x="175.00" y="57.00" text-anchor="middle" class="text-pct">95%</text>
+  <text x="175.00" y="71.00" text-anchor="middle" class="text-lbl">Code review</text>
+  <text x="232.00" y="73.27" text-anchor="start" class="text-pct">65%</text>
+  <text x="232.00" y="87.27" text-anchor="start" class="text-lbl">Commits</text>
+  <text x="273.73" y="115.00" text-anchor="start" class="text-pct">95%</text>
+  <text x="273.73" y="129.00" text-anchor="start" class="text-lbl">Discussions</text>
+  <text x="289.00" y="172.00" text-anchor="start" class="text-pct">65%</text>
+  <text x="289.00" y="186.00" text-anchor="start" class="text-lbl">PRs</text>
+  <text x="273.73" y="229.00" text-anchor="start" class="text-pct">95%</text>
+  <text x="273.73" y="243.00" text-anchor="start" class="text-lbl">Issues</text>
+  <text x="232.00" y="270.73" text-anchor="start" class="text-pct">65%</text>
+  <text x="232.00" y="284.73" text-anchor="start" class="text-lbl">Repositories</text>
+  <text x="175.00" y="289.00" text-anchor="middle" class="text-pct">95%</text>
+  <text x="175.00" y="303.00" text-anchor="middle" class="text-lbl">Stars</text>
+  <text x="118.00" y="270.73" text-anchor="end" class="text-pct">65%</text>
+  <text x="118.00" y="284.73" text-anchor="end" class="text-lbl">Contributions</text>
+  <text x="76.27" y="229.00" text-anchor="end" class="text-pct">95%</text>
+  <text x="76.27" y="243.00" text-anchor="end" class="text-lbl">Releases</text>
+  <text x="61.00" y="172.00" text-anchor="end" class="text-pct">65%</text>
+  <text x="61.00" y="186.00" text-anchor="end" class="text-lbl">Projects</text>
+  <text x="76.27" y="115.00" text-anchor="end" class="text-pct">95%</text>
+  <text x="76.27" y="129.00" text-anchor="end" class="text-lbl">Actions</text>
+  <text x="118.00" y="73.27" text-anchor="end" class="text-pct">65%</text>
+  <text x="118.00" y="87.27" text-anchor="end" class="text-lbl">Packages</text>
+</svg>

@@ -168,6 +168,11 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
 
 <img height="180em" src="./github-stats/github-stats.svg"/>
 <img height="180em" src="./github-stats/top-langs.svg"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-stats/github-activity-radar-Heart-Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-stats/github-activity-radar-Heart-Light.svg">
+  <img height="180em" alt="github activity radar chart" src="./github-stats/github-activity-radar-Heart-Light.svg">
+</picture>
 
 <img src="./github-stats/streak-stats.svg" />
 

@@ -1,0 +1,63 @@
+<svg width="350" height="350" viewBox="0 0 350 350" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="350" height="350" rx="12" fill="var(--color-bg)" stroke="var(--color-border)" stroke-width="1"/>
+  <style>
+    :root {
+
+  --color-bg: #ffffff;
+  --color-border: #e1e4e8;
+  --color-grid: #e1e4e8;
+  --color-axis: #586069;
+  --color-text-main: #24292e;
+  --color-text-sub: #586069;
+  --color-poly-stroke: #2ea44f;
+  --color-poly-fill: rgba(46, 164, 79, 0.18);
+  --color-dot-fill: #ffffff;
+
+    }
+    .axis-line { stroke: var(--color-axis); stroke-width: 1.5; stroke-opacity: 0.5; }
+    .grid-line { stroke: var(--color-grid); stroke-width: 1; stroke-opacity: 0.5; stroke-dasharray: 3,3; }
+    .text-pct { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 13px; font-weight: bold; fill: var(--color-text-main); }
+    .text-lbl { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 10px; fill: var(--color-text-sub); }
+    .radar-poly { stroke: var(--color-poly-stroke); stroke-width: 3; fill: var(--color-poly-fill); stroke-linejoin: round; }
+    .radar-dot { fill: var(--color-dot-fill); stroke: var(--color-poly-stroke); stroke-width: 2.5; }
+    .center-dot { fill: var(--color-poly-stroke); }
+  </style>
+  <polygon points="175.00,150.00 192.68,157.32 200.00,175.00 192.68,192.68 175.00,200.00 157.32,192.68 150.00,175.00 157.32,157.32" class="grid-line" fill="none"/>
+  <polygon points="175.00,125.00 210.36,139.64 225.00,175.00 210.36,210.36 175.00,225.00 139.64,210.36 125.00,175.00 139.64,139.64" class="grid-line" fill="none"/>
+  <polygon points="175.00,100.00 228.03,121.97 250.00,175.00 228.03,228.03 175.00,250.00 121.97,228.03 100.00,175.00 121.97,121.97" class="grid-line" fill="none"/>
+  <polygon points="175.00,75.00 245.71,104.29 275.00,175.00 245.71,245.71 175.00,275.00 104.29,245.71 75.00,175.00 104.29,104.29" class="grid-line" fill="none"/>
+  <line x1="175" y1="175" x2="175.00" y2="75.00" class="axis-line"/>
+  <line x1="175" y1="175" x2="245.71" y2="104.29" class="axis-line"/>
+  <line x1="175" y1="175" x2="275.00" y2="175.00" class="axis-line"/>
+  <line x1="175" y1="175" x2="245.71" y2="245.71" class="axis-line"/>
+  <line x1="175" y1="175" x2="175.00" y2="275.00" class="axis-line"/>
+  <line x1="175" y1="175" x2="104.29" y2="245.71" class="axis-line"/>
+  <line x1="175" y1="175" x2="75.00" y2="175.00" class="axis-line"/>
+  <line x1="175" y1="175" x2="104.29" y2="104.29" class="axis-line"/>
+  <circle cx="175" cy="175" r="3" class="center-dot"/>
+  <polygon points="175.00,140.00 238.64,111.36 270.00,175.00 228.03,228.03 175.00,270.00 121.97,228.03 80.00,175.00 111.36,111.36" class="radar-poly"/>
+  <circle cx="175.00" cy="140.00" r="4.5" class="radar-dot"/>
+  <circle cx="238.64" cy="111.36" r="4.5" class="radar-dot"/>
+  <circle cx="270.00" cy="175.00" r="4.5" class="radar-dot"/>
+  <circle cx="228.03" cy="228.03" r="4.5" class="radar-dot"/>
+  <circle cx="175.00" cy="270.00" r="4.5" class="radar-dot"/>
+  <circle cx="121.97" cy="228.03" r="4.5" class="radar-dot"/>
+  <circle cx="80.00" cy="175.00" r="4.5" class="radar-dot"/>
+  <circle cx="111.36" cy="111.36" r="4.5" class="radar-dot"/>
+  <text x="175.00" y="53.00" text-anchor="middle" class="text-pct">35%</text>
+  <text x="175.00" y="67.00" text-anchor="middle" class="text-lbl">Code review</text>
+  <text x="258.44" y="88.56" text-anchor="start" class="text-pct">90%</text>
+  <text x="258.44" y="102.56" text-anchor="start" class="text-lbl">Commits</text>
+  <text x="293.00" y="172.00" text-anchor="start" class="text-pct">95%</text>
+  <text x="293.00" y="186.00" text-anchor="start" class="text-lbl">Discussions</text>
+  <text x="258.44" y="255.44" text-anchor="start" class="text-pct">75%</text>
+  <text x="258.44" y="269.44" text-anchor="start" class="text-lbl">PRs</text>
+  <text x="175.00" y="293.00" text-anchor="middle" class="text-pct">95%</text>
+  <text x="175.00" y="307.00" text-anchor="middle" class="text-lbl">Issues</text>
+  <text x="91.56" y="255.44" text-anchor="end" class="text-pct">75%</text>
+  <text x="91.56" y="269.44" text-anchor="end" class="text-lbl">Repositories</text>
+  <text x="57.00" y="172.00" text-anchor="end" class="text-pct">95%</text>
+  <text x="57.00" y="186.00" text-anchor="end" class="text-lbl">Stars</text>
+  <text x="91.56" y="88.56" text-anchor="end" class="text-pct">90%</text>
+  <text x="91.56" y="102.56" text-anchor="end" class="text-lbl">Contributions</text>
+</svg>
