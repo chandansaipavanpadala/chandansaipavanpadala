@@ -122,26 +122,11 @@
 ## Projects
 
 <div align="center">
-  <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
-    <img src="./project-cards/web-based-digital-ic-tester.svg" width="49%" alt="Web-Based Digital IC Tester"/>
-  </a>
-  <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
-    <img src="./project-cards/jinx.svg" width="49%" alt="JINX"/>
-  </a>
+  <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank"><img src="./project-cards/web-based-digital-ic-tester.svg" width="48.5%" alt="Web-Based Digital IC Tester"/></a>&nbsp;&nbsp;<a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank"><img src="./project-cards/jinx.svg" width="48.5%" alt="JINX"/></a>
   <br/><br/>
-  <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
-    <img src="./project-cards/tara.svg" width="49%" alt="TÁRA"/>
-  </a>
-  <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
-    <img src="./project-cards/hawk.svg" width="49%" alt="H.A.W.K."/>
-  </a>
+  <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank"><img src="./project-cards/tara.svg" width="48.5%" alt="TÁRA"/></a>&nbsp;&nbsp;<a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank"><img src="./project-cards/hawk.svg" width="48.5%" alt="H.A.W.K."/></a>
   <br/><br/>
-  <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
-    <img src="./project-cards/omnimind.svg" width="49%" alt="OmniMind"/>
-  </a>
-  <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
-    <img src="./project-cards/iot-safe-house.svg" width="49%" alt="IoT Safe House"/>
-  </a>
+  <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank"><img src="./project-cards/omnimind.svg" width="48.5%" alt="OmniMind"/></a>&nbsp;&nbsp;<a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank"><img src="./project-cards/iot-safe-house.svg" width="48.5%" alt="IoT Safe House"/></a>
 </div>
 
 ---

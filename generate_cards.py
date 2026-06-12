@@ -151,16 +151,18 @@ def main():
     print("MARKDOWN SNIPPET FOR README.md")
     print("="*40)
     markdown_lines = ['<div align="center">']
-    
-    for idx, project in enumerate(projects):
-        if idx > 0 and idx % 2 == 0:
+    for i in range(0, len(projects), 2):
+        if i > 0:
             markdown_lines.append('  <br/><br/>')
-            
-        col_snippet = f"""  <a href="{project['link']}" target="_blank">
-    <img src="./project-cards/{project['id']}.svg" width="49%" alt="{html.escape(project['title'])}"/>
-  </a>"""
-        markdown_lines.append(col_snippet)
         
+        p1 = projects[i]
+        col_snippet = f'  <a href="{p1["link"]}" target="_blank"><img src="./project-cards/{p1["id"]}.svg" width="48.5%" alt="{html.escape(p1["title"])}"/></a>'
+        
+        if i + 1 < len(projects):
+            p2 = projects[i+1]
+            col_snippet += f'&nbsp;&nbsp;<a href="{p2["link"]}" target="_blank"><img src="./project-cards/{p2["id"]}.svg" width="48.5%" alt="{html.escape(p2["title"])}"/></a>'
+            
+        markdown_lines.append(col_snippet)
     markdown_lines.append('</div>')
     
     snippet = "\n".join(markdown_lines)

@@ -26,7 +26,7 @@
   <line x1="60" y1="95" x2="920" y2="95" stroke="url(#line-gradient)" stroke-width="2.5" />
 
   <!-- Milestones and Nodes -->
-  <!-- Milestone: Arduino & C -->
+  <!-- Milestone: Arduino &amp; C -->
   <g class="milestone-node">
     <!-- Glow effect simulated by concentric circles -->
     <circle cx="80" cy="95" r="14" fill="#00b4d8" fill-opacity="0.12" />
@@ -34,10 +34,10 @@
     <circle cx="80" cy="95" r="4.5" fill="#00b4d8" />
     
     <!-- Title Label (Above node) -->
-    <text x="80" y="62" fill="#f0f6fc" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">Arduino & C</text>
+    <text x="80" y="62" fill="#f0f6fc" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">Arduino &amp; C</text>
     
     <!-- Subtitle Caption (Below node) -->
-    <text x="80" y="132" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="400" text-anchor="middle">Basics & Hardware I/O</text>
+    <text x="80" y="132" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="400" text-anchor="middle">Basics &amp; Hardware I/O</text>
   </g>
   <!-- Milestone: ARM7 LPC2148 -->
   <g class="milestone-node">
@@ -52,7 +52,7 @@
     <!-- Subtitle Caption (Below node) -->
     <text x="244" y="132" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="400" text-anchor="middle">Embedded C Drivers</text>
   </g>
-  <!-- Milestone: ESP32 & FreeRTOS -->
+  <!-- Milestone: ESP32 &amp; FreeRTOS -->
   <g class="milestone-node">
     <!-- Glow effect simulated by concentric circles -->
     <circle cx="408" cy="95" r="14" fill="#00b4d8" fill-opacity="0.12" />
@@ -60,10 +60,10 @@
     <circle cx="408" cy="95" r="4.5" fill="#00b4d8" />
     
     <!-- Title Label (Above node) -->
-    <text x="408" y="62" fill="#f0f6fc" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">ESP32 & FreeRTOS</text>
+    <text x="408" y="62" fill="#f0f6fc" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">ESP32 &amp; FreeRTOS</text>
     
     <!-- Subtitle Caption (Below node) -->
-    <text x="408" y="132" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="400" text-anchor="middle">Multi-tasking & IoT</text>
+    <text x="408" y="132" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="400" text-anchor="middle">Multi-tasking &amp; IoT</text>
   </g>
   <!-- Milestone: STM32 / Cortex-M4 -->
   <g class="milestone-node">
@@ -76,7 +76,7 @@
     <text x="572" y="62" fill="#f0f6fc" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">STM32 / Cortex-M4</text>
     
     <!-- Subtitle Caption (Below node) -->
-    <text x="572" y="132" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="400" text-anchor="middle">DMA & Industrial Controls</text>
+    <text x="572" y="132" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="400" text-anchor="middle">DMA &amp; Industrial Controls</text>
   </g>
   <!-- Milestone: Raspberry Pi -->
   <g class="milestone-node">
@@ -89,7 +89,7 @@
     <text x="736" y="62" fill="#f0f6fc" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">Raspberry Pi</text>
     
     <!-- Subtitle Caption (Below node) -->
-    <text x="736" y="132" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="400" text-anchor="middle">Robotics & ADAS</text>
+    <text x="736" y="132" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="400" text-anchor="middle">Robotics &amp; ADAS</text>
   </g>
   <!-- Milestone: Defence Systems -->
   <g class="milestone-node">

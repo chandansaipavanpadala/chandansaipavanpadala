@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import os
 import sys
+import html
 
 # Reconfigure stdout to use UTF-8 to prevent encoding errors on Windows console
 if sys.platform.startswith("win"):
@@ -28,8 +29,8 @@ def generate_timeline():
     nodes_svg = []
     for m in milestones:
         x = m["x"]
-        label = m["label"]
-        caption = m["caption"]
+        label = html.escape(m["label"])
+        caption = html.escape(m["caption"])
         
         node_group = f"""  <!-- Milestone: {label} -->
   <g class="milestone-node">
