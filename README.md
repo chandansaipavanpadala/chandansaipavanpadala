@@ -22,24 +22,69 @@
 
 ## About Me
 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/profile-about-me-Dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/profile-about-me-Light.svg">
-  <img alt="About Me" src="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/profile-about-me-Light.svg">
-</picture>
-</div>
+- Embedded Systems Engineer focused on **FreeRTOS, firmware architecture, and hardware-software co-design**
+- Building systems for **Defence Electronics, IoT, and Autonomous Platforms**
+- Experienced with **ESP32, ARM Cortex-M4, Raspberry Pi, and low-level C firmware**
+- 5× Hackathon podium finisher in industrial automation, hardware security, and robotics
+- Approach every engineering problem like competitive badminton — observe, iterate, don't quit
+- Always open to conversations about embedded systems, defence tech, or intelligent automation
 
 ---
 
 ## Tech Stack
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/profile-tech-stack-Dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/profile-tech-stack-Light.svg">
-  <img alt="Tech Stack" src="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/profile-tech-stack-Light.svg">
-</picture>
+
+**Core Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=microchip&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-00D4FF?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Microcontrollers & Hardware Platforms**
+
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![ARM Cortex-M4](https://img.shields.io/badge/ARM_Cortex--M4-0091BD?style=for-the-badge&logo=arm&logoColor=white)
+![ARM7 LPC2148](https://img.shields.io/badge/ARM7_LPC2148-00B0FF?style=for-the-badge&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Raspberry Pi Pico](https://img.shields.io/badge/Raspberry_Pi_Pico-009688?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+**RTOS & Communication Protocols**
+
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-4CAF50?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi-00E676?style=for-the-badge&logoColor=white)
+![Bluetooth](https://img.shields.io/badge/Bluetooth-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-32C350?style=for-the-badge&logo=webrtc&logoColor=white)
+![Web Serial API](https://img.shields.io/badge/Web_Serial_API-FF5722?style=for-the-badge&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)
+![UART/I2C/SPI](https://img.shields.io/badge/UART_I2C_SPI-03A9F4?style=for-the-badge&logoColor=white)
+
+**Development Tools & Design Software**
+
+![Keil uVision](https://img.shields.io/badge/Keil_uVision-1E88E5?style=for-the-badge&logoColor=white)
+![Proteus](https://img.shields.io/badge/Proteus-00ACC1?style=for-the-badge&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![LTspice](https://img.shields.io/badge/LTspice-1976D2?style=for-the-badge&logoColor=white)
+![Cadence Virtuoso](https://img.shields.io/badge/Cadence_Virtuoso-F44336?style=for-the-badge&logoColor=white)
+![Spectre Simulator](https://img.shields.io/badge/Spectre_Simulator-9C27B0?style=for-the-badge&logoColor=white)
+![MIT App Inventor](https://img.shields.io/badge/MIT_App_Inventor-E65100?style=for-the-badge&logoColor=white)
+
+**Technologies & Frameworks**
+
+![IoT](https://img.shields.io/badge/Internet_of_Things-FF9100?style=for-the-badge&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-00E5FF?style=for-the-badge&logoColor=white)
+![VLSI Design](https://img.shields.io/badge/VLSI_Design-FFC107?style=for-the-badge&logoColor=white)
+![Digital Signal Processing](https://img.shields.io/badge/Signal_Processing-E91E63?style=for-the-badge&logoColor=white)
+![Robotics Simulation](https://img.shields.io/badge/Robotics_Simulation-00E5FF?style=for-the-badge&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![MATLAB/Simulink](https://img.shields.io/badge/MATLAB%20%2F%20Simulink-E16707?style=for-the-badge&logo=mathworks&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
 </div>
 
 ---
@@ -131,9 +176,9 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
   <tr style="border: none;">
     <td style="border: none; padding: 5px;" align="center" valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/github-activity-radar-Heart-Dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/github-activity-radar-Heart-Light.svg">
-        <img height="280" alt="github activity radar chart" src="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/github-activity-radar-Heart-Light.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./github-stats/github-activity-radar-Heart-Dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./github-stats/github-activity-radar-Heart-Light.svg">
+        <img height="280" alt="github activity radar chart" src="./github-stats/github-activity-radar-Heart-Light.svg">
       </picture>
     </td>
     <td style="border: none; padding: 5px;" align="center" valign="middle">
@@ -148,9 +193,9 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
   <tr style="border: none;">
     <td colspan="2" style="border: none; padding: 5px;" align="center" valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/github-contribution-grid-snake-Dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/github-contribution-grid-snake-Light.svg">
-        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/github-contribution-grid-snake-Light.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="./github-stats/github-contribution-grid-snake-Dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./github-stats/github-contribution-grid-snake-Light.svg">
+        <img alt="github contribution grid snake animation" src="./github-stats/github-contribution-grid-snake-Light.svg">
       </picture>
     </td>
   </tr>
