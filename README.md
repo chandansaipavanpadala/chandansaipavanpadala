@@ -114,51 +114,35 @@
 ## Skills Timeline
 
 <div align="center">
-  <img src="skills-timeline.svg" width="100%" alt="Skills Development Timeline"/>
+  <img src="./skills-timeline.svg" width="100%" alt="Skills Development Timeline"/>
 </div>
 
 ---
 
 ## Projects
 
-<table style="border: none; border-collapse: collapse; margin: 0 auto; width: 100%;">
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px; width: 50%;" align="center">
-      <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
-        <img src="project-cards/web-based-digital-ic-tester.svg" width="100%" alt="Web-Based Digital IC Tester"/>
-      </a>
-    </td>
-    <td style="border: none; padding: 10px; width: 50%;" align="center">
-      <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
-        <img src="project-cards/jinx.svg" width="100%" alt="JINX"/>
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px; width: 50%;" align="center">
-      <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
-        <img src="project-cards/tara.svg" width="100%" alt="TÁRA"/>
-      </a>
-    </td>
-    <td style="border: none; padding: 10px; width: 50%;" align="center">
-      <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
-        <img src="project-cards/hawk.svg" width="100%" alt="H.A.W.K."/>
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td style="border: none; padding: 10px; width: 50%;" align="center">
-      <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
-        <img src="project-cards/omnimind.svg" width="100%" alt="OmniMind"/>
-      </a>
-    </td>
-    <td style="border: none; padding: 10px; width: 50%;" align="center">
-      <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
-        <img src="project-cards/iot-safe-house.svg" width="100%" alt="IoT Safe House"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
+    <img src="./project-cards/web-based-digital-ic-tester.svg" width="49%" alt="Web-Based Digital IC Tester"/>
+  </a>
+  <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
+    <img src="./project-cards/jinx.svg" width="49%" alt="JINX"/>
+  </a>
+  <br/><br/>
+  <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
+    <img src="./project-cards/tara.svg" width="49%" alt="TÁRA"/>
+  </a>
+  <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
+    <img src="./project-cards/hawk.svg" width="49%" alt="H.A.W.K."/>
+  </a>
+  <br/><br/>
+  <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
+    <img src="./project-cards/omnimind.svg" width="49%" alt="OmniMind"/>
+  </a>
+  <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
+    <img src="./project-cards/iot-safe-house.svg" width="49%" alt="IoT Safe House"/>
+  </a>
+</div>
 
 ---
 
@@ -205,10 +189,8 @@
 
 ---
 
-## Achievements
-
 <details>
-<summary><b>View Achievements</b></summary>
+<summary><h2>Achievements</h2></summary>
 <br/>
 
 <div align="center">
@@ -294,10 +276,8 @@
 
 ---
 
-## Certifications
-
 <details>
-<summary><b>View Certifications</b></summary>
+<summary><h2>Certifications</h2></summary>
 <br/>
 
 <div align="center">

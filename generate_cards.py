@@ -150,31 +150,18 @@ def main():
     print("\n" + "="*40)
     print("MARKDOWN SNIPPET FOR README.md")
     print("="*40)
-    markdown_lines = [
-        '<table style="border: none; border-collapse: collapse; margin: 0 auto; width: 100%;">',
-        '  <tr style="border: none;">'
-    ]
+    markdown_lines = ['<div align="center">']
     
     for idx, project in enumerate(projects):
-        # We pair cards in a 2-column layout
         if idx > 0 and idx % 2 == 0:
-            markdown_lines.append('  </tr>')
-            markdown_lines.append('  <tr style="border: none;">')
+            markdown_lines.append('  <br/><br/>')
             
-        col_snippet = f"""    <td style="border: none; padding: 10px; width: 50%;" align="center">
-      <a href="{project['link']}" target="_blank">
-        <img src="project-cards/{project['id']}.svg" width="100%" alt="{html.escape(project['title'])}"/>
-      </a>
-    </td>"""
+        col_snippet = f"""  <a href="{project['link']}" target="_blank">
+    <img src="./project-cards/{project['id']}.svg" width="49%" alt="{html.escape(project['title'])}"/>
+  </a>"""
         markdown_lines.append(col_snippet)
         
-    # Close tr and table
-    if len(projects) % 2 != 0:
-        # Add an empty td to balance columns if odd number of projects
-        markdown_lines.append('    <td style="border: none; padding: 10px; width: 50%;" align="center"></td>')
-        
-    markdown_lines.append('  </tr>')
-    markdown_lines.append('</table>')
+    markdown_lines.append('</div>')
     
     snippet = "\n".join(markdown_lines)
     print(snippet)
