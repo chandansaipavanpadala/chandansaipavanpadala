@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 180" width="980" height="180">
+  <defs>
+    <!-- Horizontal connector line gradient -->
+    <linearGradient id="line-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#30363d" stop-opacity="0.3" />
+      <stop offset="15%" stop-color="#00b4d8" stop-opacity="0.9" />
+      <stop offset="85%" stop-color="#00b4d8" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#30363d" stop-opacity="0.3" />
+    </linearGradient>
+    
+    <!-- Card border gradient -->
+    <linearGradient id="border-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00b4d8" stop-opacity="0.8" />
+      <stop offset="40%" stop-color="#00b4d8" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#30363d" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+
+  <!-- Solid card background -->
+  <rect x="0.5" y="0.5" width="979" height="179" rx="12" fill="#0d1117" />
+  
+  <!-- Subtle card border -->
+  <rect x="1" y="1" width="978" height="178" rx="12" fill="none" stroke="url(#border-gradient)" stroke-width="1.5" />
+
+  <!-- Horizontal connector line -->
+  <line x1="60" y1="95" x2="920" y2="95" stroke="url(#line-gradient)" stroke-width="2.5" />
+
+  <!-- Milestones and Nodes -->
+  <!-- Milestone: Arduino & C -->
+  <g class="milestone-node">
+    <!-- Glow effect simulated by concentric circles -->
+    <circle cx="80" cy="95" r="14" fill="#00b4d8" fill-opacity="0.12" />
+    <circle cx="80" cy="95" r="8" fill="#0d1117" stroke="#00b4d8" stroke-width="2.2" />
+    <circle cx="80" cy="95" r="4.5" fill="#00b4d8" />
+    
+    <!-- Title Label (Above node) -->
+    <text x="80" y="62" fill="#f0f6fc" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">Arduino & C</text>
+    
+    <!-- Subtitle Caption (Below node) -->
+    <text x="80" y="132" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="400" text-anchor="middle">Basics & Hardware I/O</text>
+  </g>
+  <!-- Milestone: ARM7 LPC2148 -->
+  <g class="milestone-node">
+    <!-- Glow effect simulated by concentric circles -->
+    <circle cx="244" cy="95" r="14" fill="#00b4d8" fill-opacity="0.12" />
+    <circle cx="244" cy="95" r="8" fill="#0d1117" stroke="#00b4d8" stroke-width="2.2" />
+    <circle cx="244" cy="95" r="4.5" fill="#00b4d8" />
+    
+    <!-- Title Label (Above node) -->
+    <text x="244" y="62" fill="#f0f6fc" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">ARM7 LPC2148</text>
+    
+    <!-- Subtitle Caption (Below node) -->
+    <text x="244" y="132" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="400" text-anchor="middle">Embedded C Drivers</text>
+  </g>
+  <!-- Milestone: ESP32 & FreeRTOS -->
+  <g class="milestone-node">
+    <!-- Glow effect simulated by concentric circles -->
+    <circle cx="408" cy="95" r="14" fill="#00b4d8" fill-opacity="0.12" />
+    <circle cx="408" cy="95" r="8" fill="#0d1117" stroke="#00b4d8" stroke-width="2.2" />
+    <circle cx="408" cy="95" r="4.5" fill="#00b4d8" />
+    
+    <!-- Title Label (Above node) -->
+    <text x="408" y="62" fill="#f0f6fc" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">ESP32 & FreeRTOS</text>
+    
+    <!-- Subtitle Caption (Below node) -->
+    <text x="408" y="132" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="400" text-anchor="middle">Multi-tasking & IoT</text>
+  </g>
+  <!-- Milestone: STM32 / Cortex-M4 -->
+  <g class="milestone-node">
+    <!-- Glow effect simulated by concentric circles -->
+    <circle cx="572" cy="95" r="14" fill="#00b4d8" fill-opacity="0.12" />
+    <circle cx="572" cy="95" r="8" fill="#0d1117" stroke="#00b4d8" stroke-width="2.2" />
+    <circle cx="572" cy="95" r="4.5" fill="#00b4d8" />
+    
+    <!-- Title Label (Above node) -->
+    <text x="572" y="62" fill="#f0f6fc" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">STM32 / Cortex-M4</text>
+    
+    <!-- Subtitle Caption (Below node) -->
+    <text x="572" y="132" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="400" text-anchor="middle">DMA & Industrial Controls</text>
+  </g>
+  <!-- Milestone: Raspberry Pi -->
+  <g class="milestone-node">
+    <!-- Glow effect simulated by concentric circles -->
+    <circle cx="736" cy="95" r="14" fill="#00b4d8" fill-opacity="0.12" />
+    <circle cx="736" cy="95" r="8" fill="#0d1117" stroke="#00b4d8" stroke-width="2.2" />
+    <circle cx="736" cy="95" r="4.5" fill="#00b4d8" />
+    
+    <!-- Title Label (Above node) -->
+    <text x="736" y="62" fill="#f0f6fc" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">Raspberry Pi</text>
+    
+    <!-- Subtitle Caption (Below node) -->
+    <text x="736" y="132" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="400" text-anchor="middle">Robotics & ADAS</text>
+  </g>
+  <!-- Milestone: Defence Systems -->
+  <g class="milestone-node">
+    <!-- Glow effect simulated by concentric circles -->
+    <circle cx="900" cy="95" r="14" fill="#00b4d8" fill-opacity="0.12" />
+    <circle cx="900" cy="95" r="8" fill="#0d1117" stroke="#00b4d8" stroke-width="2.2" />
+    <circle cx="900" cy="95" r="4.5" fill="#00b4d8" />
+    
+    <!-- Title Label (Above node) -->
+    <text x="900" y="62" fill="#f0f6fc" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="700" text-anchor="middle">Defence Systems</text>
+    
+    <!-- Subtitle Caption (Below node) -->
+    <text x="900" y="132" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="10.5" font-weight="400" text-anchor="middle">Mission-Critical RTOS</text>
+  </g>
+</svg>

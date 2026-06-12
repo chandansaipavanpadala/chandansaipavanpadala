@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 270" width="470" height="270">
+  <defs>
+    <!-- Glowing background radial gradient -->
+    <radialGradient id="bg-glow-tara" cx="0%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#ff9f1c" stop-opacity="0.08" />
+      <stop offset="50%" stop-color="#0d1117" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1" />
+    </radialGradient>
+    
+    <!-- Smooth gradient border starting from accent color -->
+    <linearGradient id="border-grad-tara" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff9f1c" stop-opacity="1" />
+      <stop offset="30%" stop-color="#ff9f1c" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#30363d" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+
+  <!-- Solid card background -->
+  <rect x="0.5" y="0.5" width="469" height="269" rx="12" fill="#0d1117" />
+  
+  <!-- Subtle radial glow overlay -->
+  <rect x="0.5" y="0.5" width="469" height="269" rx="12" fill="url(#bg-glow-tara)" />
+  
+  <!-- Gradient border -->
+  <rect x="1" y="1" width="468" height="268" rx="12" fill="none" stroke="url(#border-grad-tara)" stroke-width="1.8" />
+
+  <!-- Title -->
+  <text x="24" y="38" fill="#f0f6fc" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="700">TÁRA</text>
+  
+  <!-- Subtitle -->
+  <text x="24" y="58" fill="#ff9f1c" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="600">Tracking Adaptive Road Autonomous Car</text>
+
+  <!-- Wrapped Description -->
+  <text x="24" y="86" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="400" line-height="19">
+    <tspan x="24" dy="0">1:10 scale Raspberry Pi autonomous car optimized for</tspan>
+        <tspan x="24" dy="19">Indian road conditions, integrating ADAS features: Lane</tspan>
+        <tspan x="24" dy="19">Keep Assist, Emergency Braking (AEB), Adaptive Cruise</tspan>
+        <tspan x="24" dy="19">Control (ACC), Blind Spot Detection, and real-time</tspan>
+        <tspan x="24" dy="19">Traffic Sign Recognition.</tspan>
+  </text>
+
+  <!-- Project Tech Tags -->
+  <g class="tag">
+    <rect x="24" y="194" width="94" height="22" rx="11" fill="#ff9f1c" fill-opacity="0.12" />
+    <text x="71" y="209" fill="#ff9f1c" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Raspberry Pi</text>
+  </g>
+  <g class="tag">
+    <rect x="126" y="194" width="57" height="22" rx="11" fill="#ff9f1c" fill-opacity="0.12" />
+    <text x="154" y="209" fill="#ff9f1c" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Python</text>
+  </g>
+  <g class="tag">
+    <rect x="191" y="194" width="57" height="22" rx="11" fill="#ff9f1c" fill-opacity="0.12" />
+    <text x="219" y="209" fill="#ff9f1c" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">OpenCV</text>
+  </g>
+  <g class="tag">
+    <rect x="256" y="194" width="113" height="22" rx="11" fill="#ff9f1c" fill-opacity="0.12" />
+    <text x="312" y="209" fill="#ff9f1c" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">CARLA Simulator</text>
+  </g>
+  <g class="tag">
+    <rect x="24" y="224" width="113" height="22" rx="11" fill="#ff9f1c" fill-opacity="0.12" />
+    <text x="80" y="239" fill="#ff9f1c" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">ADAS Algorithms</text>
+  </g>
+</svg>

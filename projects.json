@@ -1,0 +1,56 @@
+[
+  {
+    "id": "web-based-digital-ic-tester",
+    "title": "Web-Based Digital IC Tester",
+    "subtitle": "Web Serial API-Based Hardware Validation",
+    "description": "A futuristic web application for mobile IC testing, utilizing the Web Serial API. Features a comprehensive IC database, interactive truth tables, and pinout diagrams for both automated and manual testing, bypassing expensive laboratory bench equipment.",
+    "tags": ["Web Serial API", "JavaScript", "HTML5/CSS3", "Arduino", "Embedded C"],
+    "accent_color": "#00b4d8",
+    "link": "https://chandansaipavanpadala.github.io/MyPortfolio/"
+  },
+  {
+    "id": "jinx",
+    "title": "JINX",
+    "subtitle": "Joint Inverse N-dimensional eXplorer",
+    "description": "An open-source 3D robotic simulator using Three.js and Vite, featuring real-time forward and inverse kinematics, trajectory planning, and a high-performance multi-tab data pipeline streaming 60FPS telemetry via BroadcastChannel API.",
+    "tags": ["Three.js", "Vite", "BroadcastChannel API", "Chart.js", "GitHub Pages"],
+    "accent_color": "#9b5de5",
+    "link": "https://chandansaipavanpadala.github.io/MyPortfolio/"
+  },
+  {
+    "id": "tara",
+    "title": "TÁRA",
+    "subtitle": "Tracking Adaptive Road Autonomous Car",
+    "description": "1:10 scale Raspberry Pi autonomous car optimized for Indian road conditions, integrating ADAS features: Lane Keep Assist, Emergency Braking (AEB), Adaptive Cruise Control (ACC), Blind Spot Detection, and real-time Traffic Sign Recognition.",
+    "tags": ["Raspberry Pi", "Python", "OpenCV", "CARLA Simulator", "ADAS Algorithms"],
+    "accent_color": "#ff9f1c",
+    "link": "https://chandansaipavanpadala.github.io/MyPortfolio/"
+  },
+  {
+    "id": "hawk",
+    "title": "H.A.W.K.",
+    "subtitle": "Human Activity Detection Through Walls",
+    "description": "A real-time through-wall human detection system utilizing microwave kinetics and radar principles. Features robust telemetry packet extraction and live data visualization for continuous, non-invasive activity monitoring.",
+    "tags": ["Microwave Radar", "ESP32", "Python", "Serial Protocol", "Data Visualization"],
+    "accent_color": "#06d6a0",
+    "link": "https://chandansaipavanpadala.github.io/MyPortfolio/"
+  },
+  {
+    "id": "omnimind",
+    "title": "OmniMind",
+    "subtitle": "The Intelligent Second Brain",
+    "description": "A high-performance SaaS platform using Gemini 2.5 Flash to automatically analyze, categorize, and route unstructured links and thoughts into authenticated Supabase databases with strict Row-Level Security protection.",
+    "tags": ["Next.js 16", "Supabase", "Gemini 2.5 Flash", "TypeScript", "SaaS"],
+    "accent_color": "#4361ee",
+    "link": "https://chandansaipavanpadala.github.io/MyPortfolio/"
+  },
+  {
+    "id": "iot-safe-house",
+    "title": "IoT Safe House",
+    "subtitle": "Integrated Security & Monitoring System",
+    "description": "End-to-end IoT home security solution with real-time multi-sensor monitoring, automated mobile alerts, and robust cloud synchronization built on Arduino and MIT App Inventor.",
+    "tags": ["Arduino", "MIT App Inventor", "IoT Sensors", "Bluetooth", "Cloud"],
+    "accent_color": "#ff006e",
+    "link": "https://chandansaipavanpadala.github.io/MyPortfolio/"
+  }
+]

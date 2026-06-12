@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 270" width="470" height="270">
+  <defs>
+    <!-- Glowing background radial gradient -->
+    <radialGradient id="bg-glow-omnimind" cx="0%" cy="0%" r="80%">
+      <stop offset="0%" stop-color="#4361ee" stop-opacity="0.08" />
+      <stop offset="50%" stop-color="#0d1117" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="1" />
+    </radialGradient>
+    
+    <!-- Smooth gradient border starting from accent color -->
+    <linearGradient id="border-grad-omnimind" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4361ee" stop-opacity="1" />
+      <stop offset="30%" stop-color="#4361ee" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#30363d" stop-opacity="0.2" />
+    </linearGradient>
+  </defs>
+
+  <!-- Solid card background -->
+  <rect x="0.5" y="0.5" width="469" height="269" rx="12" fill="#0d1117" />
+  
+  <!-- Subtle radial glow overlay -->
+  <rect x="0.5" y="0.5" width="469" height="269" rx="12" fill="url(#bg-glow-omnimind)" />
+  
+  <!-- Gradient border -->
+  <rect x="1" y="1" width="468" height="268" rx="12" fill="none" stroke="url(#border-grad-omnimind)" stroke-width="1.8" />
+
+  <!-- Title -->
+  <text x="24" y="38" fill="#f0f6fc" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="700">OmniMind</text>
+  
+  <!-- Subtitle -->
+  <text x="24" y="58" fill="#4361ee" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" font-weight="600">The Intelligent Second Brain</text>
+
+  <!-- Wrapped Description -->
+  <text x="24" y="86" fill="#8b949e" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="400" line-height="19">
+    <tspan x="24" dy="0">A high-performance SaaS platform using Gemini 2.5 Flash</tspan>
+        <tspan x="24" dy="19">to automatically analyze, categorize, and route</tspan>
+        <tspan x="24" dy="19">unstructured links and thoughts into authenticated</tspan>
+        <tspan x="24" dy="19">Supabase databases with strict Row-Level Security</tspan>
+        <tspan x="24" dy="19">protection.</tspan>
+  </text>
+
+  <!-- Project Tech Tags -->
+  <g class="tag">
+    <rect x="24" y="194" width="82" height="22" rx="11" fill="#4361ee" fill-opacity="0.12" />
+    <text x="65" y="209" fill="#4361ee" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Next.js 16</text>
+  </g>
+  <g class="tag">
+    <rect x="114" y="194" width="69" height="22" rx="11" fill="#4361ee" fill-opacity="0.12" />
+    <text x="148" y="209" fill="#4361ee" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Supabase</text>
+  </g>
+  <g class="tag">
+    <rect x="191" y="194" width="119" height="22" rx="11" fill="#4361ee" fill-opacity="0.12" />
+    <text x="250" y="209" fill="#4361ee" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Gemini 2.5 Flash</text>
+  </g>
+  <g class="tag">
+    <rect x="318" y="194" width="82" height="22" rx="11" fill="#4361ee" fill-opacity="0.12" />
+    <text x="359" y="209" fill="#4361ee" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">TypeScript</text>
+  </g>
+  <g class="tag">
+    <rect x="24" y="224" width="44" height="22" rx="11" fill="#4361ee" fill-opacity="0.12" />
+    <text x="46" y="239" fill="#4361ee" font-family="system-ui, -apple-system, sans-serif" font-size="11" font-weight="600" text-anchor="middle">SaaS</text>
+  </g>
+</svg>

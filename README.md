@@ -16,6 +16,10 @@
 &nbsp;
 <a href="mailto:chandansaipavanp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+<br/><br/>
+
+#### **[About Me](#about-me) &nbsp;•&nbsp; [Latest Activity](#latest-activity) &nbsp;•&nbsp; [Latest Writings](#latest-writings) &nbsp;•&nbsp; [Tech Stack](#tech-stack) &nbsp;•&nbsp; [Skills Timeline](#skills-timeline) &nbsp;•&nbsp; [Projects](#projects) &nbsp;•&nbsp; [GitHub Analytics](#github-analytics) &nbsp;•&nbsp; [Achievements](#achievements) &nbsp;•&nbsp; [Certifications](#certifications)**
+
 </div>
 
 ---
@@ -28,6 +32,24 @@
 - 5× Hackathon podium finisher in industrial automation, hardware security, and robotics
 - Approach every engineering problem like competitive badminton — observe, iterate, don't quit
 - Always open to conversations about embedded systems, defence tech, or intelligent automation
+
+---
+
+## Latest Activity
+
+<!-- LATEST_ACTIVITY:START -->
+- Pushed to [chandansaipavanpadala/chandansaipavanpadala](https://github.com/chandansaipavanpadala/chandansaipavanpadala): new commits — Jun 12, 2026
+- Pushed to [HackIndiaXYZ/vibe-coding-hackathon-2026-indias-largest-ai-web3-event-hackindia-noname](https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-indias-largest-ai-web3-event-hackindia-noname): new commits — Jun 09, 2026
+- Pushed to [chandansaipavanpadala/H.A.W.K-HumanActivityDetectionThroughWallsUsingMicrowaveKinetics](https://github.com/chandansaipavanpadala/H.A.W.K-HumanActivityDetectionThroughWallsUsingMicrowaveKinetics): new commits — Jun 04, 2026
+- Starred [santifer/career-ops](https://github.com/santifer/career-ops) — Jun 03, 2026
+<!-- LATEST_ACTIVITY:END -->
+
+---
+
+## Latest Writings
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -89,75 +111,53 @@
 
 ---
 
+## Skills Timeline
+
+<div align="center">
+  <img src="skills-timeline.svg" width="100%" alt="Skills Development Timeline"/>
+</div>
+
+---
+
 ## Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Web-Based Digital IC Tester
-**Web Serial API-Based Hardware Validation**
-
-A futuristic web application for mobile IC testing, utilizing the Web Serial API. Features a comprehensive IC database, interactive truth tables, and pinout diagrams for both automated and manual testing, bypassing expensive laboratory bench equipment.
-
-`Web Serial API` `JavaScript` `HTML5/CSS3` `Arduino` `Embedded C`
-
-</td>
-<td width="50%" valign="top">
-
-### JINX
-**Joint Inverse N-dimensional eXplorer**
-
-An open-source 3D robotic simulator using Three.js and Vite, featuring real-time forward and inverse kinematics, trajectory planning, and a high-performance multi-tab data pipeline streaming 60FPS telemetry via BroadcastChannel API.
-
-`Three.js` `Vite` `BroadcastChannel API` `Chart.js` `GitHub Pages`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### TÁRA
-**Tracking Adaptive Road Autonomous Car**
-
-1:10 scale Raspberry Pi autonomous car optimized for Indian road conditions, integrating ADAS features: Lane Keep Assist, Emergency Braking (AEB), Adaptive Cruise Control (ACC), Blind Spot Detection, and real-time Traffic Sign Recognition.
-
-`Raspberry Pi` `Python` `OpenCV` `CARLA Simulator` `ADAS Algorithms`
-
-</td>
-<td width="50%" valign="top">
-
-### H.A.W.K.
-**Human Activity Detection Through Walls**
-
-A real-time through-wall human detection system utilizing microwave kinetics and radar principles. Features robust telemetry packet extraction and live data visualization for continuous, non-invasive activity monitoring.
-
-`Microwave Radar` `ESP32` `Python` `Serial Protocol` `Data Visualization`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### OmniMind
-**The Intelligent Second Brain**
-
-A high-performance SaaS platform using Gemini 2.5 Flash to automatically analyze, categorize, and route unstructured links and thoughts into authenticated Supabase databases with strict Row-Level Security protection.
-
-`Next.js 16` `Supabase` `Gemini 2.5 Flash` `TypeScript` `SaaS`
-
-</td>
-<td width="50%" valign="top">
-
-### IoT Safe House
-**Integrated Security & Monitoring System**
-
-End-to-end IoT home security solution with real-time multi-sensor monitoring, automated mobile alerts, and robust cloud synchronization built on Arduino and MIT App Inventor.
-
-`Arduino` `MIT App Inventor` `IoT Sensors` `Bluetooth` `Cloud`
-
-</td>
-</tr>
+<table style="border: none; border-collapse: collapse; margin: 0 auto; width: 100%;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px; width: 50%;" align="center">
+      <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
+        <img src="project-cards/web-based-digital-ic-tester.svg" width="100%" alt="Web-Based Digital IC Tester"/>
+      </a>
+    </td>
+    <td style="border: none; padding: 10px; width: 50%;" align="center">
+      <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
+        <img src="project-cards/jinx.svg" width="100%" alt="JINX"/>
+      </a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px; width: 50%;" align="center">
+      <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
+        <img src="project-cards/tara.svg" width="100%" alt="TÁRA"/>
+      </a>
+    </td>
+    <td style="border: none; padding: 10px; width: 50%;" align="center">
+      <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
+        <img src="project-cards/hawk.svg" width="100%" alt="H.A.W.K."/>
+      </a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none; padding: 10px; width: 50%;" align="center">
+      <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
+        <img src="project-cards/omnimind.svg" width="100%" alt="OmniMind"/>
+      </a>
+    </td>
+    <td style="border: none; padding: 10px; width: 50%;" align="center">
+      <a href="https://chandansaipavanpadala.github.io/MyPortfolio/" target="_blank">
+        <img src="project-cards/iot-safe-house.svg" width="100%" alt="IoT Safe House"/>
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -206,6 +206,10 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
 ---
 
 ## Achievements
+
+<details>
+<summary><b>View Achievements</b></summary>
+<br/>
 
 <div align="center">
 <table>
@@ -286,9 +290,15 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
 </table>
 </div>
 
+</details>
+
 ---
 
 ## Certifications
+
+<details>
+<summary><b>View Certifications</b></summary>
+<br/>
 
 <div align="center">
 <table>
@@ -394,6 +404,8 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
   </tr>
 </table>
 </div>
+
+</details>
 
 ---
 
