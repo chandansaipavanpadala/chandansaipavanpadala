@@ -1,8 +1,16 @@
 #!/usr/bin/env python3
 import os
+import sys
 import json
 import html
 import textwrap
+
+# Reconfigure stdout to use UTF-8 to prevent encoding errors on Windows console
+if sys.platform.startswith("win"):
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+    except AttributeError:
+        pass
 
 def generate_svg_card(project):
     project_id = project["id"]

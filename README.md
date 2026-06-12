@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=220&section=header&text=Chandan%20Sai%20Pavan%20Padala&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Systems%20%7C%20RTOS%20%7C%20Firmware%20%7C%20Defence%20Tech&descSize=18&descAlignY=58&animation=fadeIn" />
+<img src="./banner.svg" width="100%" alt="Chandan Sai Pavan Padala Banner" />
 
 <br/>
 
@@ -15,6 +15,10 @@
 <a href="https://chandansaipavanpadala.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-00b4d8?style=for-the-badge&logo=firefox&logoColor=white"/></a>
 &nbsp;
 <a href="mailto:chandansaipavanp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="./terminal-widget.svg" width="600" alt="Terminal typing whoami" />
 
 <br/><br/>
 
@@ -107,6 +111,10 @@
 ![MATLAB/Simulink](https://img.shields.io/badge/MATLAB%20%2F%20Simulink-E16707?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+<br/><br/>
+
+<img src="./tech-orbit.svg" width="500" alt="Tech Stack Orbit Map" />
+
 </div>
 
 ---
@@ -132,6 +140,12 @@
 ---
 
 ## GitHub Analytics
+
+<div align="center">
+  <img src="./glass-stats.svg" width="600" alt="GitHub Analytics Overview"/>
+</div>
+
+<br/>
 
 <table style="border: none; border-collapse: collapse; margin: 0 auto;">
   <tr style="border: none;">
@@ -174,6 +188,7 @@
 
 ---
 
+<a id="achievements"></a>
 <details>
 <summary><h2>Achievements</h2></summary>
 <br/>
@@ -261,6 +276,7 @@
 
 ---
 
+<a id="certifications"></a>
 <details>
 <summary><h2>Certifications</h2></summary>
 <br/>
