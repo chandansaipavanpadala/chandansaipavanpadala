@@ -1,0 +1,86 @@
+<svg width="850" height="420" viewBox="0 0 850 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="850" height="420" rx="12" fill="#ffffff" stroke="#e1e4e8" stroke-width="1.5"/>
+  <circle cx="800" cy="370" r="150" fill="#0077b6" opacity="0.04" filter="blur(50px)"/>
+  <style>
+    @keyframes pulse {
+      0% { opacity: 0.3; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.2); }
+      100% { opacity: 0.3; transform: scale(1); }
+    }
+    .glow-dot {
+      transform-origin: 29px 34px;
+      animation: pulse 3s infinite ease-in-out;
+    }
+  </style>
+  <!-- Glow pulse circle in header -->
+  <circle cx="29" cy="34" r="5" fill="#0077b6" class="glow-dot"/>
+  <foreignObject x="25" y="25" width="800" height="370">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6;">
+      <h2 style="color: #0077b6; font-size: 18px; margin-top: 0; margin-bottom: 20px; font-weight: 600; letter-spacing: 1px; display: flex; align-items: center; gap: 8px; padding-left: 15px;">
+        TECHNOLOGY STACK
+      </h2>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; padding: 0 10px;">
+        <div>
+          <h3 style="color: #0077b6; font-size: 13px; font-weight: 600; margin-top: 0; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">Core Languages</h3>
+          <div style="display: flex; flex-wrap: wrap; gap: 6px;">
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">C</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">C++</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Embedded C</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Assembly</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Python</span>
+          </div>
+        </div>
+        <div>
+          <h3 style="color: #0077b6; font-size: 13px; font-weight: 600; margin-top: 0; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">Hardware Platforms</h3>
+          <div style="display: flex; flex-wrap: wrap; gap: 6px;">
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">ESP32</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">STM32</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">ARM Cortex-M4</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">ARM7 LPC2148</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Raspberry Pi</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Pico</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Arduino</span>
+          </div>
+        </div>
+        <div>
+          <h3 style="color: #0077b6; font-size: 13px; font-weight: 600; margin-top: 0; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">RTOS & Communication Protocols</h3>
+          <div style="display: flex; flex-wrap: wrap; gap: 6px;">
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">FreeRTOS</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Linux</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Wi-Fi</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Bluetooth</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">WebRTC</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Web Serial API</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">MQTT</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">UART/I2C/SPI</span>
+          </div>
+        </div>
+        <div>
+          <h3 style="color: #0077b6; font-size: 13px; font-weight: 600; margin-top: 0; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">Tools & Design Software</h3>
+          <div style="display: flex; flex-wrap: wrap; gap: 6px;">
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Keil uVision</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Proteus</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Arduino IDE</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">LTspice</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Cadence Virtuoso</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Spectre</span>
+            <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">MIT App Inventor</span>
+          </div>
+        </div>
+      </div>
+      <div style="margin-top: 20px; padding: 0 10px;">
+        <h3 style="color: #0077b6; font-size: 13px; font-weight: 600; margin-top: 0; margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;">Specializations & Technologies</h3>
+        <div style="display: flex; flex-wrap: wrap; gap: 6px;">
+          <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Internet of Things (IoT)</span>
+          <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Embedded Systems</span>
+          <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">VLSI Design</span>
+          <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Digital Signal Processing (DSP)</span>
+          <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Robotics Simulation</span>
+          <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Git & GitHub Version Control</span>
+          <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">MATLAB / Simulink</span>
+          <span style="background: #f6f8fa; border: 1px solid #e1e4e8; color: #24292e; font-size: 11px; padding: 3px 8px; border-radius: 4px; font-weight: 500; display: inline-block;">Streamlit Dashboarding</span>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

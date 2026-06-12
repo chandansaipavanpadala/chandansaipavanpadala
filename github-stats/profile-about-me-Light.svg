@@ -1,0 +1,46 @@
+<svg width="850" height="280" viewBox="0 0 850 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="850" height="280" rx="12" fill="#ffffff" stroke="#e1e4e8" stroke-width="1.5"/>
+  <circle cx="50" cy="50" r="150" fill="#0077b6" opacity="0.04" filter="blur(50px)"/>
+  <style>
+    @keyframes pulse {
+      0% { opacity: 0.3; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.2); }
+      100% { opacity: 0.3; transform: scale(1); }
+    }
+    .glow-dot {
+      transform-origin: 29px 34px;
+      animation: pulse 3s infinite ease-in-out;
+    }
+  </style>
+  <!-- Glow pulse circle in header -->
+  <circle cx="29" cy="34" r="5" fill="#0077b6" class="glow-dot" style="box-shadow: 0 0 10px #0077b6;"/>
+  <foreignObject x="25" y="25" width="800" height="230">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="color: #24292e; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.6;">
+      <h2 style="color: #0077b6; font-size: 18px; margin-top: 0; margin-bottom: 20px; font-weight: 600; letter-spacing: 1px; display: flex; align-items: center; gap: 8px; padding-left: 15px;">
+        ABOUT ME
+      </h2>
+      <ul style="list-style: none; padding-left: 0; margin: 0;">
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          <span style="position: absolute; left: 0; top: 7px; width: 6px; height: 6px; background: #0077b6; border-radius: 50%; box-shadow: 0 0 6px #0077b6;"></span>
+          Embedded Systems Engineer focused on <strong style='color: #000000; font-weight: 600;'>FreeRTOS, firmware architecture, and hardware-software co-design</strong>
+        </li>
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          <span style="position: absolute; left: 0; top: 7px; width: 6px; height: 6px; background: #0077b6; border-radius: 50%; box-shadow: 0 0 6px #0077b6;"></span>
+          Building systems for <strong style='color: #000000; font-weight: 600;'>Defence Electronics, IoT, and Autonomous Platforms</strong>
+        </li>
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          <span style="position: absolute; left: 0; top: 7px; width: 6px; height: 6px; background: #0077b6; border-radius: 50%; box-shadow: 0 0 6px #0077b6;"></span>
+          Experienced with <strong style='color: #000000; font-weight: 600;'>ESP32, ARM Cortex-M4, Raspberry Pi, and low-level C firmware</strong>
+        </li>
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          <span style="position: absolute; left: 0; top: 7px; width: 6px; height: 6px; background: #0077b6; border-radius: 50%; box-shadow: 0 0 6px #0077b6;"></span>
+          <strong style='color: #000000; font-weight: 600;'>5× Hackathon podium finisher</strong> in industrial automation, hardware security, and robotics
+        </li>
+        <li style="margin-bottom: 12px; padding-left: 20px; position: relative;">
+          <span style="position: absolute; left: 0; top: 7px; width: 6px; height: 6px; background: #0077b6; border-radius: 50%; box-shadow: 0 0 6px #0077b6;"></span>
+          Approach every engineering problem like competitive badminton — <strong style='color: #000000; font-weight: 600;'>observe, iterate, and never quit</strong>
+        </li>
+      </ul>
+    </div>
+  </foreignObject>
+</svg>
