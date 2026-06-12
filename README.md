@@ -380,6 +380,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=120&section=footer&animation=fadeIn"/>
 
-**Always open to conversations about embedded systems, defence tech, or intelligent automation.**
-
 </div>
