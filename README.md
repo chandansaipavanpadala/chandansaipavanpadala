@@ -24,9 +24,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-stats/profile-about-me-Dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./github-stats/profile-about-me-Light.svg">
-  <img alt="About Me" src="./github-stats/profile-about-me-Light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/profile-about-me-Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/profile-about-me-Light.svg">
+  <img alt="About Me" src="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/profile-about-me-Light.svg">
 </picture>
 </div>
 
@@ -36,9 +36,9 @@
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./github-stats/profile-tech-stack-Dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./github-stats/profile-tech-stack-Light.svg">
-  <img alt="Tech Stack" src="./github-stats/profile-tech-stack-Light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/profile-tech-stack-Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/profile-tech-stack-Light.svg">
+  <img alt="Tech Stack" src="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/profile-tech-stack-Light.svg">
 </picture>
 </div>
 
@@ -131,9 +131,9 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
   <tr style="border: none;">
     <td style="border: none; padding: 5px;" align="center" valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./github-stats/github-activity-radar-Heart-Dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./github-stats/github-activity-radar-Heart-Light.svg">
-        <img height="280" alt="github activity radar chart" src="./github-stats/github-activity-radar-Heart-Light.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/github-activity-radar-Heart-Dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/github-activity-radar-Heart-Light.svg">
+        <img height="280" alt="github activity radar chart" src="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/github-activity-radar-Heart-Light.svg">
       </picture>
     </td>
     <td style="border: none; padding: 5px;" align="center" valign="middle">
@@ -148,9 +148,9 @@ End-to-end IoT home security solution with real-time multi-sensor monitoring, au
   <tr style="border: none;">
     <td colspan="2" style="border: none; padding: 5px;" align="center" valign="middle">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./github-stats/github-contribution-grid-snake-Dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./github-stats/github-contribution-grid-snake-Light.svg">
-        <img alt="github contribution grid snake animation" src="./github-stats/github-contribution-grid-snake-Light.svg">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/github-contribution-grid-snake-Dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/github-contribution-grid-snake-Light.svg">
+        <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chandansaipavanpadala/chandansaipavanpadala/main/github-stats/github-contribution-grid-snake-Light.svg">
       </picture>
     </td>
   </tr>
