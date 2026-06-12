@@ -18,10 +18,6 @@
 
 <br/><br/>
 
-<img src="./terminal-widget.svg" width="600" alt="Terminal typing whoami" />
-
-<br/><br/>
-
 #### **[About Me](#about-me) &nbsp;•&nbsp; [Latest Activity](#latest-activity) &nbsp;•&nbsp; [Latest Writings](#latest-writings) &nbsp;•&nbsp; [Tech Stack](#tech-stack) &nbsp;•&nbsp; [Skills Timeline](#skills-timeline) &nbsp;•&nbsp; [Projects](#projects) &nbsp;•&nbsp; [GitHub Analytics](#github-analytics) &nbsp;•&nbsp; [Achievements](#achievements) &nbsp;•&nbsp; [Certifications](#certifications)**
 
 </div>
@@ -111,10 +107,6 @@
 ![MATLAB/Simulink](https://img.shields.io/badge/MATLAB%20%2F%20Simulink-E16707?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-<br/><br/>
-
-<img src="./tech-orbit.svg" width="500" alt="Tech Stack Orbit Map" />
-
 </div>
 
 ---
@@ -140,12 +132,6 @@
 ---
 
 ## GitHub Analytics
-
-<div align="center">
-  <img src="./glass-stats.svg" width="600" alt="GitHub Analytics Overview"/>
-</div>
-
-<br/>
 
 <table style="border: none; border-collapse: collapse; margin: 0 auto;">
   <tr style="border: none;">
