@@ -45,13 +45,6 @@
 
 ---
 
-## Latest Writings
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## Tech Stack
 
 <div align="center">
