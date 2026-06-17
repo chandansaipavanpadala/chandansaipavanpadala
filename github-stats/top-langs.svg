@@ -12,7 +12,7 @@
       <svg data-testid="lang-items" x="25" y="55">
       <g transform="translate(0, 0)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">TypeScript</text>
-    <text x="215" y="34" class="lang-name">36.97%</text>
+    <text x="215" y="34" class="lang-name">36.42%</text>
     <svg width="205">
       <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
       <rect 
@@ -20,13 +20,13 @@
         fill="#3178c6"
         rx="5" ry="5" x="0" y="25" 
         data-testid="lang-progress" 
-        width="36.97%"
+        width="36.42%"
       >
       </rect>
     </svg>
   </g><g transform="translate(0, 40)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">HTML</text>
-    <text x="215" y="34" class="lang-name">25.64%</text>
+    <text x="215" y="34" class="lang-name">25.26%</text>
     <svg width="205">
       <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
       <rect 
@@ -34,27 +34,13 @@
         fill="#e34c26"
         rx="5" ry="5" x="0" y="25" 
         data-testid="lang-progress" 
-        width="25.64%"
+        width="25.26%"
       >
       </rect>
     </svg>
   </g><g transform="translate(0, 80)">
-    <text data-testid="lang-name" x="2" y="15" class="lang-name">Python</text>
-    <text x="215" y="34" class="lang-name">16.76%</text>
-    <svg width="205">
-      <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
-      <rect 
-        height="8" 
-        fill="#3572A5"
-        rx="5" ry="5" x="0" y="25" 
-        data-testid="lang-progress" 
-        width="16.76%"
-      >
-      </rect>
-    </svg>
-  </g><g transform="translate(0, 120)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">C++</text>
-    <text x="215" y="34" class="lang-name">16.01%</text>
+    <text x="215" y="34" class="lang-name">17.27%</text>
     <svg width="205">
       <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
       <rect 
@@ -62,13 +48,27 @@
         fill="#f34b7d"
         rx="5" ry="5" x="0" y="25" 
         data-testid="lang-progress" 
-        width="16.01%"
+        width="17.27%"
+      >
+      </rect>
+    </svg>
+  </g><g transform="translate(0, 120)">
+    <text data-testid="lang-name" x="2" y="15" class="lang-name">Python</text>
+    <text x="215" y="34" class="lang-name">16.50%</text>
+    <svg width="205">
+      <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
+      <rect 
+        height="8" 
+        fill="#3572A5"
+        rx="5" ry="5" x="0" y="25" 
+        data-testid="lang-progress" 
+        width="16.5%"
       >
       </rect>
     </svg>
   </g><g transform="translate(0, 160)">
     <text data-testid="lang-name" x="2" y="15" class="lang-name">Jupyter Notebook</text>
-    <text x="215" y="34" class="lang-name">4.62%</text>
+    <text x="215" y="34" class="lang-name">4.55%</text>
     <svg width="205">
       <rect rx="5" ry="5" x="0" y="25" width="205" height="8" fill="#ddd"></rect>
       <rect 
@@ -76,7 +76,7 @@
         fill="#DA5B0B"
         rx="5" ry="5" x="0" y="25" 
         data-testid="lang-progress" 
-        width="4.62%"
+        width="4.55%"
       >
       </rect>
     </svg>
