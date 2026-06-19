@@ -38,11 +38,11 @@
 ## Latest Activity
 
 <!-- LATEST_ACTIVITY:START -->
-- Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) — Jun 18, 2026
-- Activity (Public) in [chandansaipavanpadala/binino](https://github.com/chandansaipavanpadala/binino) — May 06, 2026
-- Pushed to [chandansaipavanpadala/binino](https://github.com/chandansaipavanpadala/binino): new commits — Jun 17, 2026
-- Pushed to [chandansaipavanpadala/H.A.W.K-HumanActivityDetectionThroughWallsUsingMicrowaveKinetics](https://github.com/chandansaipavanpadala/H.A.W.K-HumanActivityDetectionThroughWallsUsingMicrowaveKinetics): new commits — Jun 16, 2026
-- Forked [HackIndiaXYZ/vibe-coding-hackathon-2026-indias-largest-ai-web3-event-hackindia-noname](https://github.com/HackIndiaXYZ/vibe-coding-hackathon-2026-indias-largest-ai-web3-event-hackindia-noname) — Jun 16, 2026
+- Pushed to [chandansaipavanpadala/binino](https://github.com/chandansaipavanpadala/binino): new commits — Jun 18, 2026
+- Starred [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) — Jun 18, 2026
+- Starred [astral-sh/ruff](https://github.com/astral-sh/ruff) — Jun 18, 2026
+- Starred [facebook/docusaurus](https://github.com/facebook/docusaurus) — Jun 18, 2026
+- Starred [appwrite/appwrite](https://github.com/appwrite/appwrite) — Jun 18, 2026
 <!-- LATEST_ACTIVITY:END -->
 
 ---
