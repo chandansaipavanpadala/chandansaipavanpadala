@@ -232,7 +232,7 @@
       <p align="left">🛠️ <b>National-Level Hardware Design Hackathon</b></p>
       <p align="left">Designed and prototyped innovative embedded solutions under strict time, power, and resource constraints at NIT Trichy.</p>
       <br/>
-      <a href="https://drive.google.com/file/d/15A7hJ1_sPyyKLVoqyuGW9L2veef9owAQ/view?usp=sharing"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/14vzgspqILjUwa-A3Nke80XKNPX2lglmV/view?usp=sharing"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
     <td width="50%" valign="top" align="center">
@@ -245,7 +245,7 @@
       <p align="left">💻 <b>Rapid Software & API Integration Hackathon</b></p>
       <p align="left">Collaborated on building a fully functional software prototype, focusing on high-speed API routing, rapid state development, and web integrations.</p>
       <br/>
-      <a href="https://drive.google.com/file/d/1nj-ShBUNk0sfLCuHvjJAqX5IOp52F8i9/view?usp=sharing"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/1BX57h5ttTL0glihKIwG1gPSCN8dg4UcL/view?usp=sharing"><img src="https://img.shields.io/badge/Verify%20Certificate-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
   </tr>
@@ -309,7 +309,7 @@
       <br/><br/>
       <p align="left">Practical foundation in embedded system architectures, microcontroller peripheral interfacing, and register-level firmware development.</p>
       <br/>
-      <a href="https://drive.google.com/file/d/1qw5usyJmOBO2qCJsP5-ultjJVEGMqGqH/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/1EiT2JXuBxTOSW7eM6_TVM5LZsgp7ncbw/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
   </tr>
@@ -323,7 +323,7 @@
       <br/><br/>
       <p align="left">Covers modeling, system simulation, signal processing design, and programmatic control system workflows in MATLAB/Simulink.</p>
       <br/>
-      <a href="https://drive.google.com/file/d/16nhockD5kRZoNQPoVYHrdBySHiFJ_0Tm/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/1iG254LY233EYc8ofQPSvJX_pJj3WLWE3/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
     <td width="25%" valign="top" align="center">
@@ -335,7 +335,7 @@
       <br/><br/>
       <p align="left">In-depth training in graphical system design, high-frequency data acquisition systems, and robust analog/digital sensor interfacing.</p>
       <br/>
-      <a href="https://drive.google.com/file/d/1adpmKrQ1yII4na68fopUakKliWq5C0De/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/12ev2Ygw3lVIJySSe67fadGni3DVYRJFn/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
     <td width="25%" valign="top" align="center">
@@ -347,7 +347,7 @@
       <br/><br/>
       <p align="left">Trained in vulnerability assessment, penetration testing, and leveraging generative AI models for offensive/defensive security.</p>
       <br/>
-      <a href="https://drive.google.com/file/d/13SHREXtdaO0qgkycCP7ZCFeVok7aghCo/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/19obzJtxleBBQ7v3GSZiJ9Jyff3pwPh6z/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
     <td width="25%" valign="top" align="center">
@@ -359,7 +359,7 @@
       <br/><br/>
       <p align="left">Intensive training in Python data analysis libraries, exploratory data analysis, and predictive machine learning models.</p>
       <br/>
-      <a href="https://drive.google.com/file/d/1R6BGsl1JRmzyFFCswIEFkPg0ulpxLJea/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
+      <a href="https://drive.google.com/file/d/1DhCi-1x5PvnFnQWPNoE-q8SwKw_JCTi2/view?usp=sharing"><img src="https://img.shields.io/badge/Verify-0077b6?style=flat-square&logo=link&logoColor=white" /></a>
       <br/><br/>
     </td>
   </tr>
