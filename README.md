@@ -38,11 +38,11 @@
 ## Latest Activity
 
 <!-- LATEST_ACTIVITY:START -->
+- Starred [jberdkan/tiny-gpu](https://github.com/jberdkan/tiny-gpu) — Jul 24, 2026
 - Pushed to [chandansaipavanpadala/microriv-soc](https://github.com/chandansaipavanpadala/microriv-soc): new commits — Jul 18, 2026
 - Created branch `main` in [chandansaipavanpadala/microriv-soc](https://github.com/chandansaipavanpadala/microriv-soc) — Jul 17, 2026
 - Pushed to [chandansaipavanpadala/chandansaipavanpadala](https://github.com/chandansaipavanpadala/chandansaipavanpadala): new commits — Jul 10, 2026
 - Pushed to [chandansaipavanpadala/Web-Based_Digital_IC_Tester](https://github.com/chandansaipavanpadala/Web-Based_Digital_IC_Tester): new commits — Jul 10, 2026
-- Pushed to [chandansaipavanpadala/binino](https://github.com/chandansaipavanpadala/binino): new commits — Jul 06, 2026
 <!-- LATEST_ACTIVITY:END -->
 
 ---
