@@ -25,7 +25,6 @@
 - Embedded Systems Engineer focused on **FreeRTOS, firmware architecture, and hardware-software co-design**
 - Building systems for **Defence Electronics, IoT, and Autonomous Platforms**
 - Experienced with **ESP32, ARM Cortex-M4, Raspberry Pi, and low-level C firmware**
-- 5× Hackathon podium finisher in industrial automation, hardware security, and robotics
 - Approach every engineering problem like competitive badminton — observe, iterate, don't quit
 - Always open to conversations about embedded systems, defence tech, or intelligent automation
 
