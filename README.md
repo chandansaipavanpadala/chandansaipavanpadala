@@ -16,10 +16,6 @@
 &nbsp;
 <a href="mailto:chandansaipavanp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
-
-#### **[About Me](#about-me) &nbsp;•&nbsp; [Latest Activity](#latest-activity) &nbsp;•&nbsp; [Latest Writings](#latest-writings) &nbsp;•&nbsp; [Tech Stack](#tech-stack) &nbsp;•&nbsp; [GitHub Analytics](#github-analytics)**
-
 </div>
 
 ---
@@ -105,7 +101,9 @@
 
 ---
 
-## GitHub Analytics
+<h2 align="center">GitHub Analytics</h2>
+
+<div align="center">
 
 <table style="border: none; border-collapse: collapse; margin: 0 auto;">
   <tr style="border: none;">
