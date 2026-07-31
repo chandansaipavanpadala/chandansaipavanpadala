@@ -101,7 +101,7 @@
 
 ---
 
-<h2 align="center">GitHub Analytics</h2>
+## GitHub Analytics
 
 <div align="center">
 
