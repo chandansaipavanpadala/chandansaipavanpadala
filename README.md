@@ -136,10 +136,4 @@
 
 </div>
 
----
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=120&section=footer&animation=fadeIn"/>
-
-</div>
