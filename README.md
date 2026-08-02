@@ -17,7 +17,6 @@
 <a href="mailto:chandansaipavanp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 
 </div>
-<br/>
 
 ---
 
