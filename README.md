@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Chandan Sai Pavan Padala Banner" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./github-stats/github-contribution-grid-snake-Dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./github-stats/github-contribution-grid-snake-Light.svg">
+  <img alt="github contribution grid snake animation" src="./github-stats/github-contribution-grid-snake-Light.svg">
+</picture>
 <br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Where+code+meets+hardware.;FreeRTOS+%7C+ESP32+%7C+ARM+Cortex-M4;Building+systems+that+work+under+pressure.;Defence+%26+IoT+Embedded+Engineering.)](https://git.io/typing-svg)
-
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=chandansaipavanpadala&label=Profile+Views&color=00b4d8&style=flat" />
@@ -17,6 +17,7 @@
 <a href="mailto:chandansaipavanp@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 
 </div>
+<br/>
 
 ---
 
@@ -122,15 +123,7 @@
       <img height="280" src="./github-stats/top-langs.svg"/>
     </td>
   </tr>
-  <tr style="border: none;">
-    <td colspan="2" style="border: none; padding: 5px;" align="center" valign="middle">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./github-stats/github-contribution-grid-snake-Dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./github-stats/github-contribution-grid-snake-Light.svg">
-        <img alt="github contribution grid snake animation" src="./github-stats/github-contribution-grid-snake-Light.svg">
-      </picture>
-    </td>
-  </tr>
+
 </table>
 
 </div>
