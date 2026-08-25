@@ -21,8 +21,8 @@ jobs:
           
           # 1. GitHub Stats Card
           echo "Downloading GitHub Stats..."
-          curl -s -f -L -o temp_stats.svg "https://github-readme-stats-alpha.vercel.app/api?username=chandansaipavanpadala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff" || \
-          curl -s -f -L -o temp_stats.svg "https://github-readme-stats.vercel.app/api?username=chandansaipavanpadala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff"
+          curl -s -L -o temp_stats.svg "https://github-readme-stats-alpha.vercel.app/api?username=chandansaipavanpadala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff" || \
+          curl -s -L -o temp_stats.svg "https://github-readme-stats.vercel.app/api?username=chandansaipavanpadala&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff" || true
           
           if [ -s temp_stats.svg ] && grep -q "<svg" temp_stats.svg; then
             mv temp_stats.svg github-stats/github-stats.svg
@@ -34,8 +34,8 @@ jobs:
 
           # 2. Top Languages Card
           echo "Downloading Top Languages..."
-          curl -s -f -L -o temp_langs.svg "https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=chandansaipavanpadala&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff" || \
-          curl -s -f -L -o temp_langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=chandansaipavanpadala&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff"
+          curl -s -L -o temp_langs.svg "https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=chandansaipavanpadala&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff" || \
+          curl -s -L -o temp_langs.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=chandansaipavanpadala&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff" || true
           
           if [ -s temp_langs.svg ] && grep -q "<svg" temp_langs.svg; then
             mv temp_langs.svg github-stats/top-langs.svg
@@ -47,8 +47,8 @@ jobs:
 
           # 3. Streak Stats Card
           echo "Downloading Streak Stats..."
-          curl -s -f -L -o temp_streak.svg "https://streak-stats.demolab.com/?user=chandansaipavanpadala&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" || \
-          curl -s -f -L -o temp_streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=chandansaipavanpadala&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8"
+          curl -s -L -o temp_streak.svg "https://streak-stats.demolab.com/?user=chandansaipavanpadala&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" || \
+          curl -s -L -o temp_streak.svg "https://github-readme-streak-stats.herokuapp.com/?user=chandansaipavanpadala&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" || true
           
           if [ -s temp_streak.svg ] && grep -q "<svg" temp_streak.svg; then
             mv temp_streak.svg github-stats/streak-stats.svg
@@ -60,7 +60,7 @@ jobs:
 
           # 4. Activity Graph
           echo "Downloading Activity Graph..."
-          curl -s -f -L -o temp_activity.svg "https://github-readme-activity-graph.vercel.app/graph?username=chandansaipavanpadala&theme=react-dark&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&hide_border=true"
+          curl -s -L -o temp_activity.svg "https://github-readme-activity-graph.vercel.app/graph?username=chandansaipavanpadala&theme=react-dark&bg_color=0d1117&color=00b4d8&line=00b4d8&point=ffffff&hide_border=true" || true
           
           if [ -s temp_activity.svg ] && grep -q "<svg" temp_activity.svg; then
             mv temp_activity.svg github-stats/activity-graph.svg
