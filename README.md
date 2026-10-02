@@ -36,8 +36,6 @@
 - Pushed to [chandansaipavanpadala/spectra](https://github.com/chandansaipavanpadala/spectra): new commits — Sep 20, 2026
 - Activity (Public) in [chandansaipavanpadala/dhvani](https://github.com/chandansaipavanpadala/dhvani) — Jul 30, 2026
 - Activity (Public) in [chandansaipavanpadala/spectra](https://github.com/chandansaipavanpadala/spectra) — Aug 07, 2026
-- Starred [rushikesh-D69/water](https://github.com/rushikesh-D69/water) — Sep 01, 2026
-- Activity (Member) in [rushikesh-D69/water](https://github.com/rushikesh-D69/water) — Sep 01, 2026
 <!-- LATEST_ACTIVITY:END -->
 
 ---
