@@ -33,9 +33,9 @@
 ## Latest Activity
 
 <!-- LATEST_ACTIVITY:START -->
+- Starred [storytold/photocraft](https://github.com/storytold/photocraft) — Oct 18, 2026
 - Pushed to [madhumitha-m24/MyPortfolio](https://github.com/madhumitha-m24/MyPortfolio): new commits — Oct 07, 2026
 - Pushed to [chandansaipavanpadala/spectra](https://github.com/chandansaipavanpadala/spectra): new commits — Sep 20, 2026
-- Activity (Public) in [chandansaipavanpadala/dhvani](https://github.com/chandansaipavanpadala/dhvani) — Jul 30, 2026
 <!-- LATEST_ACTIVITY:END -->
 
 ---
