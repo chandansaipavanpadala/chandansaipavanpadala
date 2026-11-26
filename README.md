@@ -36,7 +36,6 @@
 - Starred [paperclipai/paperclip](https://github.com/paperclipai/paperclip) — Nov 19, 2026
 - Starred [CiprianSpiridon/davinci-resolve-mcp](https://github.com/CiprianSpiridon/davinci-resolve-mcp) — Nov 11, 2026
 - Pushed to [chandansaipavanpadala/spectra](https://github.com/chandansaipavanpadala/spectra): new commits — Nov 02, 2026
-- Pushed to [chandansaipavanpadala/sysc-cam-power](https://github.com/chandansaipavanpadala/sysc-cam-power): new commits — Oct 25, 2026
 <!-- LATEST_ACTIVITY:END -->
 
 ---
